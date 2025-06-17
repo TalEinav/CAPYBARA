@@ -1,0 +1,26 @@
+{
+  "H3N2 A/Panama/2007/1999": {
+    "H3N2 A/Texas/50/2012": {
+      "H3N2 A/Switzerland/9715293/2013": 1.0
+    },
+    "H3N2 A/Switzerland/9715293/2013": {
+      "H3N2 A/Texas/50/2012": 1.0
+    }
+  },
+  "H3N2 A/Texas/50/2012": {
+    "H3N2 A/Panama/2007/1999": {
+      "H3N2 A/Switzerland/9715293/2013": 1.0
+    },
+    "H3N2 A/Switzerland/9715293/2013": {
+      "H3N2 A/Panama/2007/1999": 1.0
+    }
+  },
+  "H3N2 A/Switzerland/9715293/2013": {
+    "H3N2 A/Panama/2007/1999": {
+      "H3N2 A/Texas/50/2012": 1.0
+    },
+    "H3N2 A/Texas/50/2012": {
+      "H3N2 A/Panama/2007/1999": 1.0
+    }
+  }
+}

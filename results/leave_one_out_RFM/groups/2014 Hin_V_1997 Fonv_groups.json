@@ -1,0 +1,485 @@
+{
+  "H3N2 A/Perth/16/2009": {
+    "H3N2 A/Beijing/32/1992": [
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Wuhan/359/1995",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Wuhan/359/1995",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/California/7/2004": [
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Fujian/411/2002": [
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/Wuhan/359/1995": [
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/California/7/2004"
+    ]
+  },
+  "H3N2 A/Beijing/32/1992": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Wuhan/359/1995",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/California/7/2004": [
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Fujian/411/2002": [
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/Wuhan/359/1995": [
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/California/7/2004"
+    ]
+  },
+  "H3N2 A/Panama/2007/1999": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Wuhan/359/1995",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Beijing/32/1992": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Wuhan/359/1995",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/California/7/2004": [
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Fujian/411/2002": [
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Wuhan/359/1995",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Wuhan/359/1995": [
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/California/7/2004"
+    ]
+  },
+  "H3N2 A/Sydney/5/1997": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Wuhan/359/1995",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Beijing/32/1992": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Wuhan/359/1995",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/California/7/2004": [
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Fujian/411/2002": [
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/Wuhan/359/1995": [
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Panama/2007/1999"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/California/7/2004"
+    ]
+  },
+  "H3N2 A/California/7/2004": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Wuhan/359/1995",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Beijing/32/1992": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Wuhan/359/1995",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Wuhan/359/1995",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Fujian/411/2002": [
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Wuhan/359/1995": [
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Brisbane/10/2007"
+    ]
+  },
+  "H3N2 A/Brisbane/10/2007": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Beijing/32/1992": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Wuhan/359/1995",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Wuhan/359/1995",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/California/7/2004": [
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Fujian/411/2002": [
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/Wuhan/359/1995": [
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/California/7/2004"
+    ]
+  },
+  "H3N2 A/Fujian/411/2002": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Wuhan/359/1995",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Beijing/32/1992": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Wuhan/359/1995",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/California/7/2004": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Wuhan/359/1995": [
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/California/7/2004"
+    ]
+  },
+  "H3N2 A/Wuhan/359/1995": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Beijing/32/1992": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Fujian/411/2002"
+    ],
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/California/7/2004"
+    ],
+    "H3N2 A/California/7/2004": [
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Fujian/411/2002": [
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/California/7/2004"
+    ]
+  },
+  "H3N2 A/Wisconsin/67/2005": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/Beijing/32/1992": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/California/7/2004": [
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Brisbane/10/2007"
+    ],
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/California/7/2004"
+    ],
+    "H3N2 A/Fujian/411/2002": [
+      "H3N2 A/California/7/2004",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/Wuhan/359/1995": [
+      "H3N2 A/Fujian/411/2002",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997"
+    ]
+  }
+}

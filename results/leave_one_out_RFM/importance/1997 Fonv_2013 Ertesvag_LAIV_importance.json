@@ -1,0 +1,83 @@
+{
+  "H3N2 A/Beijing/32/1992": {
+    "H3N2 A/Sydney/5/1997": {
+      "H3N2 A/Wyoming/3/2003": 0.3305584192276001,
+      "H3N2 A/Wuhan/359/1995": 1.0
+    },
+    "H3N2 A/Wyoming/3/2003": {
+      "H3N2 A/Sydney/5/1997": 0.8516570925712585,
+      "H3N2 A/New York/55/2004": 1.0
+    },
+    "H3N2 A/New York/55/2004": {
+      "H3N2 A/Sydney/5/1997": 0.15849792957305908,
+      "H3N2 A/Wyoming/3/2003": 1.0
+    },
+    "H3N2 A/Wuhan/359/1995": {
+      "H3N2 A/Sydney/5/1997": 1.0
+    }
+  },
+  "H3N2 A/Sydney/5/1997": {
+    "H3N2 A/Beijing/32/1992": {
+      "H3N2 A/Wuhan/359/1995": 1.0
+    },
+    "H3N2 A/Wyoming/3/2003": {
+      "H3N2 A/New York/55/2004": 1.0,
+      "H3N2 A/Wuhan/359/1995": 0.5627655982971191
+    },
+    "H3N2 A/New York/55/2004": {
+      "H3N2 A/Wyoming/3/2003": 1.0
+    },
+    "H3N2 A/Wuhan/359/1995": {
+      "H3N2 A/Beijing/32/1992": 1.0,
+      "H3N2 A/Wyoming/3/2003": 0.4400102198123932
+    }
+  },
+  "H3N2 A/Wyoming/3/2003": {
+    "H3N2 A/Beijing/32/1992": {
+      "H3N2 A/Wuhan/359/1995": 1.0
+    },
+    "H3N2 A/Sydney/5/1997": {
+      "H3N2 A/Wuhan/359/1995": 1.0
+    },
+    "H3N2 A/New York/55/2004": {
+      "H3N2 A/Sydney/5/1997": 1.0
+    },
+    "H3N2 A/Wuhan/359/1995": {
+      "H3N2 A/Beijing/32/1992": 0.3864542245864868,
+      "H3N2 A/Sydney/5/1997": 1.0
+    }
+  },
+  "H3N2 A/New York/55/2004": {
+    "H3N2 A/Beijing/32/1992": {
+      "H3N2 A/Wuhan/359/1995": 1.0
+    },
+    "H3N2 A/Sydney/5/1997": {
+      "H3N2 A/Wyoming/3/2003": 0.3807453215122223,
+      "H3N2 A/Wuhan/359/1995": 1.0
+    },
+    "H3N2 A/Wyoming/3/2003": {
+      "H3N2 A/Sydney/5/1997": 1.0
+    },
+    "H3N2 A/Wuhan/359/1995": {
+      "H3N2 A/Beijing/32/1992": 0.44119954109191895,
+      "H3N2 A/Sydney/5/1997": 1.0
+    }
+  },
+  "H3N2 A/Wuhan/359/1995": {
+    "H3N2 A/Beijing/32/1992": {
+      "H3N2 A/Sydney/5/1997": 1.0,
+      "H3N2 A/New York/55/2004": 0.2601199150085449
+    },
+    "H3N2 A/Sydney/5/1997": {
+      "H3N2 A/Beijing/32/1992": 0.2983379662036896,
+      "H3N2 A/Wyoming/3/2003": 1.0
+    },
+    "H3N2 A/Wyoming/3/2003": {
+      "H3N2 A/Sydney/5/1997": 1.0,
+      "H3N2 A/New York/55/2004": 0.7399156093597412
+    },
+    "H3N2 A/New York/55/2004": {
+      "H3N2 A/Wyoming/3/2003": 1.0
+    }
+  }
+}

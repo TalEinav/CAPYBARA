@@ -1,0 +1,2913 @@
+{
+  "H3N2 A/Hanam/134/2008": {
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/301/1999": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Hanam/201/2009"
+    ],
+    "H3N2 A/Philippines/472/2002": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Tasmania/1/1997": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995"
+    ],
+    "H3N2 A/Netherlands/179/1993": [
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Townsville/2/1999": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/178/1995": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993"
+    ],
+    "H3N2 A/Victoria/8/2010": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Hanam/206/2009": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/201/2009": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/444/2010": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Wyoming/3/2003": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003"
+    ]
+  },
+  "H3N2 A/Brisbane/10/2007": {
+    "H3N2 A/Hanam/134/2008": [
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/301/1999": [
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Tasmania/1/1997"
+    ],
+    "H3N2 A/Philippines/472/2002": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Tasmania/1/1997": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995"
+    ],
+    "H3N2 A/Netherlands/179/1993": [
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Townsville/2/1999": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/178/1995": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993"
+    ],
+    "H3N2 A/Victoria/8/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Hanam/206/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/201/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/444/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Wyoming/3/2003": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003"
+    ]
+  },
+  "H3N2 A/Netherlands/301/1999": {
+    "H3N2 A/Hanam/134/2008": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Tasmania/1/1997"
+    ],
+    "H3N2 A/Philippines/472/2002": [
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Tasmania/1/1997": [
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995"
+    ],
+    "H3N2 A/Netherlands/179/1993": [
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Townsville/2/1999": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/178/1995": [
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Victoria/8/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Hanam/206/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/201/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/444/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Wyoming/3/2003": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003"
+    ]
+  },
+  "H3N2 A/Nanchang/933/1995": {
+    "H3N2 A/Hanam/134/2008": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/301/1999": [
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Philippines/472/2002": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Tasmania/1/1997": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Netherlands/178/1995"
+    ],
+    "H3N2 A/Netherlands/179/1993": [
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Tasmania/1/1997"
+    ],
+    "H3N2 A/Townsville/2/1999": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/178/1995": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Tasmania/1/1997"
+    ],
+    "H3N2 A/Victoria/8/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Hanam/206/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/201/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/444/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Wyoming/3/2003": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003"
+    ]
+  },
+  "H3N2 A/Philippines/472/2002": {
+    "H3N2 A/Hanam/134/2008": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/301/1999": [
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Tasmania/1/1997": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995"
+    ],
+    "H3N2 A/Netherlands/179/1993": [
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Townsville/2/1999": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/178/1995": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Victoria/8/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Hanam/206/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/201/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/444/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Wyoming/3/2003": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003"
+    ]
+  },
+  "H3N2 A/Tasmania/1/1997": {
+    "H3N2 A/Hanam/134/2008": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/301/1999": [
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Netherlands/178/1995"
+    ],
+    "H3N2 A/Philippines/472/2002": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Netherlands/179/1993": [
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Townsville/2/1999": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/178/1995": [
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Victoria/8/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Hanam/206/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/201/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/444/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Wyoming/3/2003": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003"
+    ]
+  },
+  "H3N2 A/Netherlands/179/1993": {
+    "H3N2 A/Hanam/134/2008": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/301/1999": [
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Tasmania/1/1997"
+    ],
+    "H3N2 A/Philippines/472/2002": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Tasmania/1/1997": [
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Townsville/2/1999": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/178/1995": [
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Victoria/8/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Hanam/206/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/201/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/444/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Wyoming/3/2003": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003"
+    ]
+  },
+  "H3N2 A/Townsville/2/1999": {
+    "H3N2 A/Hanam/134/2008": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/301/1999": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Philippines/472/2002": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Tasmania/1/1997": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Netherlands/178/1995"
+    ],
+    "H3N2 A/Netherlands/179/1993": [
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Netherlands/178/1995": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993"
+    ],
+    "H3N2 A/Victoria/8/2010": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Hanam/206/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/201/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/444/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Wyoming/3/2003": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003"
+    ]
+  },
+  "H3N2 A/Netherlands/178/1995": {
+    "H3N2 A/Hanam/134/2008": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/301/1999": [
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Tasmania/1/1997"
+    ],
+    "H3N2 A/Philippines/472/2002": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Tasmania/1/1997": [
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Netherlands/179/1993": [
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Townsville/2/1999": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Victoria/8/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Hanam/206/2009": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/201/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/444/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Wyoming/3/2003": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003"
+    ]
+  },
+  "H3N2 A/Victoria/8/2010": {
+    "H3N2 A/Hanam/134/2008": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/301/1999": [
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Hanam/201/2009"
+    ],
+    "H3N2 A/Philippines/472/2002": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Tasmania/1/1997": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995"
+    ],
+    "H3N2 A/Netherlands/179/1993": [
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Townsville/2/1999": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/178/1995": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Hanam/206/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/201/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/444/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Wyoming/3/2003": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003"
+    ]
+  },
+  "H3N2 A/Victoria/361/2011": {
+    "H3N2 A/Hanam/134/2008": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/301/1999": [
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Hanam/201/2009"
+    ],
+    "H3N2 A/Philippines/472/2002": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Tasmania/1/1997": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995"
+    ],
+    "H3N2 A/Netherlands/179/1993": [
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Townsville/2/1999": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/178/1995": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993"
+    ],
+    "H3N2 A/Victoria/8/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Hanam/206/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/201/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/444/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Wyoming/3/2003": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003"
+    ]
+  },
+  "H3N2 A/Perth/16/2009": {
+    "H3N2 A/Hanam/134/2008": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/301/1999": [
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Hanam/201/2009"
+    ],
+    "H3N2 A/Philippines/472/2002": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Tasmania/1/1997": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995"
+    ],
+    "H3N2 A/Netherlands/179/1993": [
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Townsville/2/1999": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/178/1995": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993"
+    ],
+    "H3N2 A/Victoria/8/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Hanam/206/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/201/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/444/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Wyoming/3/2003": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003"
+    ]
+  },
+  "H3N2 A/Wisconsin/67/2005": {
+    "H3N2 A/Hanam/134/2008": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/301/1999": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Hanam/201/2009"
+    ],
+    "H3N2 A/Philippines/472/2002": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Tasmania/1/1997": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995"
+    ],
+    "H3N2 A/Netherlands/179/1993": [
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Townsville/2/1999": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/178/1995": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993"
+    ],
+    "H3N2 A/Victoria/8/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/206/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/201/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Hanam/444/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Wyoming/3/2003": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003"
+    ]
+  },
+  "H3N2 A/Hanam/206/2009": {
+    "H3N2 A/Hanam/134/2008": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Netherlands/301/1999": [
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Hanam/201/2009"
+    ],
+    "H3N2 A/Philippines/472/2002": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Tasmania/1/1997": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995"
+    ],
+    "H3N2 A/Netherlands/179/1993": [
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Townsville/2/1999": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Netherlands/178/1995": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993"
+    ],
+    "H3N2 A/Victoria/8/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Hanam/201/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/444/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Perth/16/2009"
+    ],
+    "H3N2 A/Wyoming/3/2003": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003"
+    ]
+  },
+  "H3N2 A/Hanam/201/2009": {
+    "H3N2 A/Hanam/134/2008": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/301/1999": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Tasmania/1/1997"
+    ],
+    "H3N2 A/Philippines/472/2002": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Tasmania/1/1997": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995"
+    ],
+    "H3N2 A/Netherlands/179/1993": [
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Townsville/2/1999": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/178/1995": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993"
+    ],
+    "H3N2 A/Victoria/8/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Hanam/206/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/444/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Wyoming/3/2003": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003"
+    ]
+  },
+  "H3N2 A/Hanam/444/2010": {
+    "H3N2 A/Hanam/134/2008": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/301/1999": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Hanam/201/2009"
+    ],
+    "H3N2 A/Philippines/472/2002": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Tasmania/1/1997": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995"
+    ],
+    "H3N2 A/Netherlands/179/1993": [
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Townsville/2/1999": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/178/1995": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993"
+    ],
+    "H3N2 A/Victoria/8/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Hanam/206/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Perth/16/2009"
+    ],
+    "H3N2 A/Hanam/201/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009"
+    ],
+    "H3N2 A/Wyoming/3/2003": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Wyoming/3/2003"
+    ]
+  },
+  "H3N2 A/Wyoming/3/2003": {
+    "H3N2 A/Hanam/134/2008": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/301/1999": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Hanam/201/2009"
+    ],
+    "H3N2 A/Philippines/472/2002": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Tasmania/1/1997": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995"
+    ],
+    "H3N2 A/Netherlands/179/1993": [
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Townsville/2/1999": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Netherlands/178/1995": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993"
+    ],
+    "H3N2 A/Victoria/8/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Hanam/206/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/201/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/444/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/444/2010"
+    ]
+  },
+  "H3N2 A/New York/55/2004": {
+    "H3N2 A/Hanam/134/2008": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Netherlands/301/1999": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Philippines/472/2002": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Tasmania/1/1997": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Netherlands/178/1995"
+    ],
+    "H3N2 A/Netherlands/179/1993": [
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Townsville/2/1999": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Netherlands/178/1995": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Netherlands/179/1993"
+    ],
+    "H3N2 A/Victoria/8/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Netherlands/178/1995",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Netherlands/179/1993",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Wyoming/3/2003"
+    ],
+    "H3N2 A/Hanam/206/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/201/2009": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/444/2010"
+    ],
+    "H3N2 A/Hanam/444/2010": [
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Hanam/201/2009",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/Victoria/8/2010",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hanam/206/2009",
+      "H3N2 A/Perth/16/2009"
+    ],
+    "H3N2 A/Wyoming/3/2003": [
+      "H3N2 A/Netherlands/301/1999",
+      "H3N2 A/Hanam/134/2008",
+      "H3N2 A/Philippines/472/2002",
+      "H3N2 A/Townsville/2/1999",
+      "H3N2 A/Wisconsin/67/2005"
+    ]
+  }
+}

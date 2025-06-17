@@ -1,0 +1,88 @@
+{
+  "H3N2 A/Panama/2007/1999": {
+    "H3N2 A/Hong Kong/4801/2014": {
+      "H3N2 A/Singapore/INFIMH-160019/2016": 1.0
+    },
+    "H3N2 A/Texas/50/2012": {
+      "H3N2 A/Switzerland/9715293/2013": 1.0,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 0.5535524487495422
+    },
+    "H3N2 A/Switzerland/9715293/2013": {
+      "H3N2 A/Texas/50/2012": 1.0,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 0.3499710261821747
+    },
+    "H3N2 A/Singapore/INFIMH-160019/2016": {
+      "H3N2 A/Hong Kong/4801/2014": 0.47966381907463074,
+      "H3N2 A/Texas/50/2012": 1.0,
+      "H3N2 A/Switzerland/9715293/2013": 0.5504593253135681
+    }
+  },
+  "H3N2 A/Hong Kong/4801/2014": {
+    "H3N2 A/Panama/2007/1999": {
+      "H3N2 A/Texas/50/2012": 1.0,
+      "H3N2 A/Switzerland/9715293/2013": 0.10140830278396606
+    },
+    "H3N2 A/Texas/50/2012": {
+      "H3N2 A/Switzerland/9715293/2013": 1.0,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 0.6791742444038391
+    },
+    "H3N2 A/Switzerland/9715293/2013": {
+      "H3N2 A/Texas/50/2012": 1.0,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 0.42701494693756104
+    },
+    "H3N2 A/Singapore/INFIMH-160019/2016": {
+      "H3N2 A/Texas/50/2012": 1.0,
+      "H3N2 A/Switzerland/9715293/2013": 0.5208080410957336
+    }
+  },
+  "H3N2 A/Texas/50/2012": {
+    "H3N2 A/Panama/2007/1999": {
+      "H3N2 A/Hong Kong/4801/2014": 0.12878453731536865,
+      "H3N2 A/Switzerland/9715293/2013": 0.4568434953689575,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 1.0
+    },
+    "H3N2 A/Hong Kong/4801/2014": {
+      "H3N2 A/Switzerland/9715293/2013": 0.10052048414945602,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 1.0
+    },
+    "H3N2 A/Switzerland/9715293/2013": {
+      "H3N2 A/Singapore/INFIMH-160019/2016": 1.0
+    },
+    "H3N2 A/Singapore/INFIMH-160019/2016": {
+      "H3N2 A/Hong Kong/4801/2014": 0.3608999252319336,
+      "H3N2 A/Switzerland/9715293/2013": 1.0
+    }
+  },
+  "H3N2 A/Switzerland/9715293/2013": {
+    "H3N2 A/Panama/2007/1999": {
+      "H3N2 A/Texas/50/2012": 1.0,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 0.13912108540534973
+    },
+    "H3N2 A/Hong Kong/4801/2014": {
+      "H3N2 A/Texas/50/2012": 0.12485611438751221,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 1.0
+    },
+    "H3N2 A/Texas/50/2012": {
+      "H3N2 A/Singapore/INFIMH-160019/2016": 1.0
+    },
+    "H3N2 A/Singapore/INFIMH-160019/2016": {
+      "H3N2 A/Hong Kong/4801/2014": 0.2407798171043396,
+      "H3N2 A/Texas/50/2012": 1.0
+    }
+  },
+  "H3N2 A/Singapore/INFIMH-160019/2016": {
+    "H3N2 A/Panama/2007/1999": {
+      "H3N2 A/Texas/50/2012": 1.0
+    },
+    "H3N2 A/Hong Kong/4801/2014": {
+      "H3N2 A/Texas/50/2012": 1.0,
+      "H3N2 A/Switzerland/9715293/2013": 0.6626694798469543
+    },
+    "H3N2 A/Texas/50/2012": {
+      "H3N2 A/Switzerland/9715293/2013": 1.0
+    },
+    "H3N2 A/Switzerland/9715293/2013": {
+      "H3N2 A/Texas/50/2012": 1.0
+    }
+  }
+}

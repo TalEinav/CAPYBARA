@@ -1,0 +1,99 @@
+{
+  "H3N2 A/Perth/16/2009": {
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Switzerland/9715293/2013": [
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013"
+    ]
+  },
+  "H3N2 A/Panama/2007/1999": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Switzerland/9715293/2013": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013"
+    ]
+  },
+  "H3N2 A/Texas/50/2012": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Switzerland/9715293/2013": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Switzerland/9715293/2013"
+    ]
+  },
+  "H3N2 A/Switzerland/9715293/2013": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Texas/50/2012"
+    ]
+  },
+  "H3N2 A/Wisconsin/67/2005": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Texas/50/2012"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Switzerland/9715293/2013"
+    ],
+    "H3N2 A/Switzerland/9715293/2013": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Texas/50/2012"
+    ]
+  }
+}

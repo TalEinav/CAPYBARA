@@ -1,0 +1,124 @@
+{
+  "H3N2 A/Nanchang/933/1995": {
+    "H3N2 A/Shandong/9/1993": {
+      "H3N2 A/Victoria/361/2011": 0.1473221629858017,
+      "H3N2 A/New York/55/2004": 1.0
+    },
+    "H3N2 A/Victoria/361/2011": {
+      "H3N2 A/Perth/16/2009": 1.0
+    },
+    "H3N2 A/Wisconsin/67/2005": {
+      "H3N2 A/Victoria/361/2011": 0.19653984904289246,
+      "H3N2 A/New York/55/2004": 1.0
+    },
+    "H3N2 A/New York/55/2004": {
+      "H3N2 A/Wisconsin/67/2005": 1.0
+    },
+    "H3N2 A/Perth/16/2009": {
+      "H3N2 A/Victoria/361/2011": 1.0
+    }
+  },
+  "H3N2 A/Shandong/9/1993": {
+    "H3N2 A/Nanchang/933/1995": {
+      "H3N2 A/Victoria/361/2011": 0.15617147088050842,
+      "H3N2 A/New York/55/2004": 1.0
+    },
+    "H3N2 A/Victoria/361/2011": {
+      "H3N2 A/Perth/16/2009": 1.0
+    },
+    "H3N2 A/Wisconsin/67/2005": {
+      "H3N2 A/Victoria/361/2011": 0.20083700120449066,
+      "H3N2 A/New York/55/2004": 1.0
+    },
+    "H3N2 A/New York/55/2004": {
+      "H3N2 A/Nanchang/933/1995": 0.1783808469772339,
+      "H3N2 A/Wisconsin/67/2005": 1.0
+    },
+    "H3N2 A/Perth/16/2009": {
+      "H3N2 A/Victoria/361/2011": 1.0
+    }
+  },
+  "H3N2 A/Victoria/361/2011": {
+    "H3N2 A/Nanchang/933/1995": {
+      "H3N2 A/Shandong/9/1993": 1.0,
+      "H3N2 A/New York/55/2004": 0.2563471496105194
+    },
+    "H3N2 A/Shandong/9/1993": {
+      "H3N2 A/Nanchang/933/1995": 1.0
+    },
+    "H3N2 A/Wisconsin/67/2005": {
+      "H3N2 A/New York/55/2004": 1.0,
+      "H3N2 A/Perth/16/2009": 0.2079830765724182
+    },
+    "H3N2 A/New York/55/2004": {
+      "H3N2 A/Nanchang/933/1995": 0.13872961699962616,
+      "H3N2 A/Wisconsin/67/2005": 1.0,
+      "H3N2 A/Perth/16/2009": 0.14728094637393951
+    },
+    "H3N2 A/Perth/16/2009": {
+      "H3N2 A/Wisconsin/67/2005": 0.8632436990737915,
+      "H3N2 A/New York/55/2004": 1.0
+    }
+  },
+  "H3N2 A/Wisconsin/67/2005": {
+    "H3N2 A/Nanchang/933/1995": {
+      "H3N2 A/Shandong/9/1993": 1.0,
+      "H3N2 A/New York/55/2004": 0.22705435752868652
+    },
+    "H3N2 A/Shandong/9/1993": {
+      "H3N2 A/Nanchang/933/1995": 1.0
+    },
+    "H3N2 A/Victoria/361/2011": {
+      "H3N2 A/Perth/16/2009": 1.0
+    },
+    "H3N2 A/New York/55/2004": {
+      "H3N2 A/Nanchang/933/1995": 0.5666888952255249,
+      "H3N2 A/Victoria/361/2011": 0.9172031879425049,
+      "H3N2 A/Perth/16/2009": 1.0
+    },
+    "H3N2 A/Perth/16/2009": {
+      "H3N2 A/Victoria/361/2011": 1.0
+    }
+  },
+  "H3N2 A/New York/55/2004": {
+    "H3N2 A/Nanchang/933/1995": {
+      "H3N2 A/Shandong/9/1993": 1.0
+    },
+    "H3N2 A/Shandong/9/1993": {
+      "H3N2 A/Nanchang/933/1995": 1.0
+    },
+    "H3N2 A/Victoria/361/2011": {
+      "H3N2 A/Perth/16/2009": 1.0
+    },
+    "H3N2 A/Wisconsin/67/2005": {
+      "H3N2 A/Victoria/361/2011": 1.0,
+      "H3N2 A/Perth/16/2009": 0.5188602805137634
+    },
+    "H3N2 A/Perth/16/2009": {
+      "H3N2 A/Victoria/361/2011": 1.0
+    }
+  },
+  "H3N2 A/Perth/16/2009": {
+    "H3N2 A/Nanchang/933/1995": {
+      "H3N2 A/Shandong/9/1993": 1.0,
+      "H3N2 A/New York/55/2004": 0.2663208246231079
+    },
+    "H3N2 A/Shandong/9/1993": {
+      "H3N2 A/Nanchang/933/1995": 1.0
+    },
+    "H3N2 A/Victoria/361/2011": {
+      "H3N2 A/Nanchang/933/1995": 0.14358390867710114,
+      "H3N2 A/Wisconsin/67/2005": 1.0,
+      "H3N2 A/New York/55/2004": 0.7924630045890808
+    },
+    "H3N2 A/Wisconsin/67/2005": {
+      "H3N2 A/Victoria/361/2011": 0.32660961151123047,
+      "H3N2 A/New York/55/2004": 1.0
+    },
+    "H3N2 A/New York/55/2004": {
+      "H3N2 A/Nanchang/933/1995": 0.14246653020381927,
+      "H3N2 A/Victoria/361/2011": 0.12804864346981049,
+      "H3N2 A/Wisconsin/67/2005": 1.0
+    }
+  }
+}

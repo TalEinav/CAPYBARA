@@ -1,0 +1,208 @@
+{
+  "H3N2 A/Hanam/135/2008": {
+    "H3N2 A/Tasmania/1/1997": [
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Christchurch/1/1996"
+    ],
+    "H3N2 A/Hanam/53/2010": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/53/2010"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/Christchurch/1/1996",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Christchurch/1/1996": [
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Tasmania/1/1997"
+    ],
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Hanam/53/2010"
+    ]
+  },
+  "H3N2 A/Tasmania/1/1997": {
+    "H3N2 A/Hanam/135/2008": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Hanam/53/2010"
+    ],
+    "H3N2 A/Hanam/53/2010": [
+      "H3N2 A/Hanam/135/2008",
+      "H3N2 A/Perth/16/2009"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Hanam/135/2008",
+      "H3N2 A/Perth/16/2009"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/Hanam/135/2008",
+      "H3N2 A/Christchurch/1/1996",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Christchurch/1/1996": [
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Hanam/135/2008",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Hanam/135/2008",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Hanam/53/2010"
+    ]
+  },
+  "H3N2 A/Hanam/53/2010": {
+    "H3N2 A/Hanam/135/2008": [
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Tasmania/1/1997": [
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Christchurch/1/1996"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Hanam/135/2008",
+      "H3N2 A/Christchurch/1/1996",
+      "H3N2 A/Perth/16/2009"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/Hanam/135/2008",
+      "H3N2 A/Christchurch/1/1996",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Christchurch/1/1996": [
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Hanam/135/2008",
+      "H3N2 A/New York/55/2004"
+    ]
+  },
+  "H3N2 A/New York/55/2004": {
+    "H3N2 A/Hanam/135/2008": [
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/53/2010"
+    ],
+    "H3N2 A/Tasmania/1/1997": [
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Christchurch/1/1996"
+    ],
+    "H3N2 A/Hanam/53/2010": [
+      "H3N2 A/Hanam/135/2008",
+      "H3N2 A/Perth/16/2009"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/Hanam/135/2008",
+      "H3N2 A/Christchurch/1/1996",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Tasmania/1/1997"
+    ],
+    "H3N2 A/Christchurch/1/1996": [
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Tasmania/1/1997"
+    ],
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Hanam/135/2008",
+      "H3N2 A/Hanam/53/2010"
+    ]
+  },
+  "H3N2 A/Panama/2007/1999": {
+    "H3N2 A/Hanam/135/2008": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Hanam/53/2010"
+    ],
+    "H3N2 A/Tasmania/1/1997": [
+      "H3N2 A/Christchurch/1/1996"
+    ],
+    "H3N2 A/Hanam/53/2010": [
+      "H3N2 A/Hanam/135/2008",
+      "H3N2 A/Perth/16/2009"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Hanam/135/2008",
+      "H3N2 A/Christchurch/1/1996",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hanam/53/2010"
+    ],
+    "H3N2 A/Christchurch/1/1996": [
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Hanam/135/2008",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Hanam/53/2010"
+    ]
+  },
+  "H3N2 A/Christchurch/1/1996": {
+    "H3N2 A/Hanam/135/2008": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Hanam/53/2010"
+    ],
+    "H3N2 A/Tasmania/1/1997": [
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Hanam/135/2008"
+    ],
+    "H3N2 A/Hanam/53/2010": [
+      "H3N2 A/Hanam/135/2008",
+      "H3N2 A/Perth/16/2009"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Hanam/135/2008",
+      "H3N2 A/Perth/16/2009"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Hanam/135/2008",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Hanam/53/2010"
+    ]
+  },
+  "H3N2 A/Perth/16/2009": {
+    "H3N2 A/Hanam/135/2008": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Hanam/53/2010"
+    ],
+    "H3N2 A/Tasmania/1/1997": [
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Christchurch/1/1996"
+    ],
+    "H3N2 A/Hanam/53/2010": [
+      "H3N2 A/Hanam/135/2008"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Hanam/135/2008",
+      "H3N2 A/Hanam/53/2010"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/Hanam/135/2008",
+      "H3N2 A/Christchurch/1/1996",
+      "H3N2 A/Tasmania/1/1997",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Christchurch/1/1996": [
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Tasmania/1/1997"
+    ]
+  }
+}

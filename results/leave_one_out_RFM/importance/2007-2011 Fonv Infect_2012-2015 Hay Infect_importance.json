@@ -1,0 +1,26 @@
+{
+  "H3N2 A/Brisbane/10/2007": {
+    "H3N2 A/Perth/16/2009": {
+      "H3N2 A/Beijing/32/1992": 1.0
+    },
+    "H3N2 A/Beijing/32/1992": {
+      "H3N2 A/Perth/16/2009": 1.0
+    }
+  },
+  "H3N2 A/Perth/16/2009": {
+    "H3N2 A/Brisbane/10/2007": {
+      "H3N2 A/Beijing/32/1992": 1.0
+    },
+    "H3N2 A/Beijing/32/1992": {
+      "H3N2 A/Brisbane/10/2007": 1.0
+    }
+  },
+  "H3N2 A/Beijing/32/1992": {
+    "H3N2 A/Brisbane/10/2007": {
+      "H3N2 A/Perth/16/2009": 1.0
+    },
+    "H3N2 A/Perth/16/2009": {
+      "H3N2 A/Brisbane/10/2007": 1.0
+    }
+  }
+}

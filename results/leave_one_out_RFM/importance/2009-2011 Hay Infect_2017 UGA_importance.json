@@ -1,0 +1,123 @@
+{
+  "H3N2 A/Perth/16/2009": {
+    "H3N2 A/Mississippi/1/1985": {
+      "H3N2 A/Texas/1/1977": 1.0
+    },
+    "H3N2 A/Hong Kong/4801/2014": {
+      "H3N2 A/Texas/50/2012": 1.0
+    },
+    "H3N2 A/Hong Kong/1/1968": {
+      "H3N2 A/Mississippi/1/1985": 1.0,
+      "H3N2 A/Texas/1/1977": 0.9684316515922546
+    },
+    "H3N2 A/Texas/50/2012": {
+      "H3N2 A/Hong Kong/4801/2014": 1.0
+    },
+    "H3N2 A/Texas/1/1977": {
+      "H3N2 A/Mississippi/1/1985": 1.0,
+      "H3N2 A/Hong Kong/1/1968": 0.10566364228725433
+    }
+  },
+  "H3N2 A/Mississippi/1/1985": {
+    "H3N2 A/Perth/16/2009": {
+      "H3N2 A/Hong Kong/4801/2014": 0.32926562428474426,
+      "H3N2 A/Texas/50/2012": 1.0
+    },
+    "H3N2 A/Hong Kong/4801/2014": {
+      "H3N2 A/Perth/16/2009": 1.0,
+      "H3N2 A/Texas/50/2012": 0.36488932371139526
+    },
+    "H3N2 A/Hong Kong/1/1968": {
+      "H3N2 A/Texas/1/1977": 1.0
+    },
+    "H3N2 A/Texas/50/2012": {
+      "H3N2 A/Perth/16/2009": 1.0,
+      "H3N2 A/Hong Kong/4801/2014": 0.1506655216217041
+    },
+    "H3N2 A/Texas/1/1977": {
+      "H3N2 A/Hong Kong/1/1968": 1.0,
+      "H3N2 A/Texas/50/2012": 0.14878171682357788
+    }
+  },
+  "H3N2 A/Hong Kong/4801/2014": {
+    "H3N2 A/Perth/16/2009": {
+      "H3N2 A/Texas/50/2012": 1.0
+    },
+    "H3N2 A/Mississippi/1/1985": {
+      "H3N2 A/Texas/1/1977": 1.0
+    },
+    "H3N2 A/Hong Kong/1/1968": {
+      "H3N2 A/Mississippi/1/1985": 0.8909898400306702,
+      "H3N2 A/Texas/1/1977": 1.0
+    },
+    "H3N2 A/Texas/50/2012": {
+      "H3N2 A/Perth/16/2009": 1.0
+    },
+    "H3N2 A/Texas/1/1977": {
+      "H3N2 A/Mississippi/1/1985": 1.0,
+      "H3N2 A/Hong Kong/1/1968": 0.1031842827796936
+    }
+  },
+  "H3N2 A/Hong Kong/1/1968": {
+    "H3N2 A/Perth/16/2009": {
+      "H3N2 A/Hong Kong/4801/2014": 0.31092900037765503,
+      "H3N2 A/Texas/50/2012": 1.0
+    },
+    "H3N2 A/Mississippi/1/1985": {
+      "H3N2 A/Texas/1/1977": 1.0
+    },
+    "H3N2 A/Hong Kong/4801/2014": {
+      "H3N2 A/Perth/16/2009": 1.0,
+      "H3N2 A/Texas/50/2012": 0.3803677558898926
+    },
+    "H3N2 A/Texas/50/2012": {
+      "H3N2 A/Perth/16/2009": 1.0,
+      "H3N2 A/Hong Kong/4801/2014": 0.14951901137828827
+    },
+    "H3N2 A/Texas/1/1977": {
+      "H3N2 A/Mississippi/1/1985": 1.0
+    }
+  },
+  "H3N2 A/Texas/50/2012": {
+    "H3N2 A/Perth/16/2009": {
+      "H3N2 A/Hong Kong/4801/2014": 1.0
+    },
+    "H3N2 A/Mississippi/1/1985": {
+      "H3N2 A/Texas/1/1977": 1.0
+    },
+    "H3N2 A/Hong Kong/4801/2014": {
+      "H3N2 A/Perth/16/2009": 1.0
+    },
+    "H3N2 A/Hong Kong/1/1968": {
+      "H3N2 A/Mississippi/1/1985": 1.0,
+      "H3N2 A/Texas/1/1977": 0.9281618595123291
+    },
+    "H3N2 A/Texas/1/1977": {
+      "H3N2 A/Mississippi/1/1985": 1.0,
+      "H3N2 A/Hong Kong/1/1968": 0.1065845638513565
+    }
+  },
+  "H3N2 A/Texas/1/1977": {
+    "H3N2 A/Perth/16/2009": {
+      "H3N2 A/Hong Kong/4801/2014": 0.333861768245697,
+      "H3N2 A/Texas/50/2012": 1.0
+    },
+    "H3N2 A/Mississippi/1/1985": {
+      "H3N2 A/Hong Kong/1/1968": 1.0,
+      "H3N2 A/Texas/50/2012": 0.23692025244235992
+    },
+    "H3N2 A/Hong Kong/4801/2014": {
+      "H3N2 A/Perth/16/2009": 1.0,
+      "H3N2 A/Texas/50/2012": 0.37356457114219666
+    },
+    "H3N2 A/Hong Kong/1/1968": {
+      "H3N2 A/Perth/16/2009": 0.16851626336574554,
+      "H3N2 A/Mississippi/1/1985": 1.0,
+      "H3N2 A/Texas/50/2012": 0.10621655732393265
+    },
+    "H3N2 A/Texas/50/2012": {
+      "H3N2 A/Perth/16/2009": 1.0,
+      "H3N2 A/Hong Kong/4801/2014": 0.15498317778110504
+    }
+  }
+}

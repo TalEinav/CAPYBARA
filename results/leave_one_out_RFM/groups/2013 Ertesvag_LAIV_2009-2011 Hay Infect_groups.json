@@ -1,0 +1,377 @@
+{
+  "H3N2 A/Beijing/353/1989": {
+    "H3N2 A/Beijing/32/1992": [
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Wuhan/359/1995",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Hong Kong/4801/2014": [
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Hong Kong/1/1968": [
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Sichuan/2/1987"
+    ],
+    "H3N2 A/Bangkok/1/1979": [
+      "H3N2 A/Sichuan/2/1987",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Hong Kong/4801/2014"
+    ],
+    "H3N2 A/Texas/1/1977": [
+      "H3N2 A/Bangkok/1/1979",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Sichuan/2/1987"
+    ],
+    "H3N2 A/Sichuan/2/1987": [
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Bangkok/1/1979",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/Wuhan/359/1995": [
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Texas/50/2012"
+    ]
+  },
+  "H3N2 A/Beijing/32/1992": {
+    "H3N2 A/Beijing/353/1989": [
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/50/2012"
+    ],
+    "H3N2 A/Hong Kong/4801/2014": [
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Hong Kong/1/1968": [
+      "H3N2 A/Beijing/353/1989",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Sichuan/2/1987"
+    ],
+    "H3N2 A/Bangkok/1/1979": [
+      "H3N2 A/Sichuan/2/1987",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Hong Kong/4801/2014"
+    ],
+    "H3N2 A/Texas/1/1977": [
+      "H3N2 A/Bangkok/1/1979",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Sichuan/2/1987"
+    ],
+    "H3N2 A/Sichuan/2/1987": [
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Bangkok/1/1979",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/Wuhan/359/1995": [
+      "H3N2 A/Texas/50/2012"
+    ]
+  },
+  "H3N2 A/Hong Kong/4801/2014": {
+    "H3N2 A/Beijing/353/1989": [
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/50/2012"
+    ],
+    "H3N2 A/Beijing/32/1992": [
+      "H3N2 A/Beijing/353/1989",
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/Hong Kong/1/1968": [
+      "H3N2 A/Beijing/353/1989",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Sichuan/2/1987"
+    ],
+    "H3N2 A/Bangkok/1/1979": [
+      "H3N2 A/Sichuan/2/1987",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Sichuan/2/1987",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/Texas/1/1977": [
+      "H3N2 A/Bangkok/1/1979",
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Sichuan/2/1987"
+    ],
+    "H3N2 A/Sichuan/2/1987": [
+      "H3N2 A/Bangkok/1/1979",
+      "H3N2 A/Wuhan/359/1995",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Wuhan/359/1995": [
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Sichuan/2/1987"
+    ]
+  },
+  "H3N2 A/Hong Kong/1/1968": {
+    "H3N2 A/Beijing/353/1989": [
+      "H3N2 A/Texas/50/2012"
+    ],
+    "H3N2 A/Beijing/32/1992": [
+      "H3N2 A/Beijing/353/1989",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Wuhan/359/1995",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Hong Kong/4801/2014": [
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Bangkok/1/1979": [
+      "H3N2 A/Sichuan/2/1987",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Hong Kong/4801/2014"
+    ],
+    "H3N2 A/Texas/1/1977": [
+      "H3N2 A/Bangkok/1/1979",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Sichuan/2/1987"
+    ],
+    "H3N2 A/Sichuan/2/1987": [
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Bangkok/1/1979",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/Wuhan/359/1995": [
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Texas/50/2012"
+    ]
+  },
+  "H3N2 A/Bangkok/1/1979": {
+    "H3N2 A/Beijing/353/1989": [
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/50/2012"
+    ],
+    "H3N2 A/Beijing/32/1992": [
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Wuhan/359/1995",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Hong Kong/4801/2014": [
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Hong Kong/1/1968": [
+      "H3N2 A/Beijing/353/1989",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Sichuan/2/1987"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Hong Kong/4801/2014"
+    ],
+    "H3N2 A/Texas/1/1977": [
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Sichuan/2/1987",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/Sichuan/2/1987": [
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Wuhan/359/1995",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Wuhan/359/1995": [
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Texas/50/2012"
+    ]
+  },
+  "H3N2 A/Texas/50/2012": {
+    "H3N2 A/Beijing/353/1989": [
+      "H3N2 A/Hong Kong/1/1968"
+    ],
+    "H3N2 A/Beijing/32/1992": [
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Sichuan/2/1987",
+      "H3N2 A/Wuhan/359/1995",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Hong Kong/4801/2014": [
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Wuhan/359/1995",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Hong Kong/1/1968": [
+      "H3N2 A/Beijing/353/1989",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Bangkok/1/1979": [
+      "H3N2 A/Sichuan/2/1987",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Texas/1/1977": [
+      "H3N2 A/Bangkok/1/1979",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Sichuan/2/1987"
+    ],
+    "H3N2 A/Sichuan/2/1987": [
+      "H3N2 A/Bangkok/1/1979",
+      "H3N2 A/Wuhan/359/1995",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Wuhan/359/1995": [
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Bangkok/1/1979",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Sichuan/2/1987"
+    ]
+  },
+  "H3N2 A/Texas/1/1977": {
+    "H3N2 A/Beijing/353/1989": [
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/50/2012"
+    ],
+    "H3N2 A/Beijing/32/1992": [
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/Hong Kong/4801/2014": [
+      "H3N2 A/Texas/50/2012"
+    ],
+    "H3N2 A/Hong Kong/1/1968": [
+      "H3N2 A/Beijing/353/1989",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Bangkok/1/1979",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Sichuan/2/1987"
+    ],
+    "H3N2 A/Bangkok/1/1979": [
+      "H3N2 A/Sichuan/2/1987",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Hong Kong/4801/2014"
+    ],
+    "H3N2 A/Sichuan/2/1987": [
+      "H3N2 A/Bangkok/1/1979",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/Wuhan/359/1995": [
+      "H3N2 A/Bangkok/1/1979",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Sichuan/2/1987"
+    ]
+  },
+  "H3N2 A/Sichuan/2/1987": {
+    "H3N2 A/Beijing/353/1989": [
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/50/2012"
+    ],
+    "H3N2 A/Beijing/32/1992": [
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Wuhan/359/1995",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Hong Kong/4801/2014": [
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Hong Kong/1/1968": [
+      "H3N2 A/Beijing/353/1989",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Bangkok/1/1979": [
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Hong Kong/4801/2014"
+    ],
+    "H3N2 A/Texas/1/1977": [
+      "H3N2 A/Bangkok/1/1979",
+      "H3N2 A/Hong Kong/4801/2014"
+    ],
+    "H3N2 A/Wuhan/359/1995": [
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Texas/50/2012"
+    ]
+  },
+  "H3N2 A/Wuhan/359/1995": {
+    "H3N2 A/Beijing/353/1989": [
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/50/2012"
+    ],
+    "H3N2 A/Beijing/32/1992": [
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Sichuan/2/1987"
+    ],
+    "H3N2 A/Hong Kong/4801/2014": [
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Hong Kong/1/1968": [
+      "H3N2 A/Beijing/353/1989",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Sichuan/2/1987"
+    ],
+    "H3N2 A/Bangkok/1/1979": [
+      "H3N2 A/Sichuan/2/1987",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Hong Kong/4801/2014"
+    ],
+    "H3N2 A/Texas/1/1977": [
+      "H3N2 A/Bangkok/1/1979",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Sichuan/2/1987"
+    ],
+    "H3N2 A/Sichuan/2/1987": [
+      "H3N2 A/Bangkok/1/1979",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Texas/1/1977"
+    ]
+  }
+}

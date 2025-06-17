@@ -1,0 +1,222 @@
+{
+  "H3N2 A/Kansas/14/2017": {
+    "H3N2 A/Hong Kong/2671/2019": {
+      "H3N2 A/Hong Kong/4801/2014": 0.1028863713145256,
+      "H3N2 A/South Australia/34/2019": 0.10009312629699707,
+      "H3N2 A/Darwin/9/2021": 0.13482074439525604,
+      "H3N2 A/Tasmania/503/2020": 1.0
+    },
+    "H3N2 A/Hong Kong/4801/2014": {
+      "H3N2 A/South Australia/34/2019": 0.207820326089859,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 1.0
+    },
+    "H3N2 A/South Australia/34/2019": {
+      "H3N2 A/Hong Kong/4801/2014": 1.0,
+      "H3N2 A/Tasmania/503/2020": 0.5000291466712952,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 0.7626558542251587
+    },
+    "H3N2 A/Darwin/9/2021": {
+      "H3N2 A/Hong Kong/2671/2019": 1.0,
+      "H3N2 A/Tasmania/503/2020": 0.9483512043952942,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 0.22086459398269653
+    },
+    "H3N2 A/Tasmania/503/2020": {
+      "H3N2 A/Hong Kong/2671/2019": 1.0,
+      "H3N2 A/Hong Kong/4801/2014": 0.11035101860761642,
+      "H3N2 A/South Australia/34/2019": 0.8209748864173889,
+      "H3N2 A/Darwin/9/2021": 0.12307633459568024
+    },
+    "H3N2 A/Singapore/INFIMH-160019/2016": {
+      "H3N2 A/Hong Kong/4801/2014": 1.0,
+      "H3N2 A/South Australia/34/2019": 0.19000783562660217
+    }
+  },
+  "H3N2 A/Hong Kong/2671/2019": {
+    "H3N2 A/Kansas/14/2017": {
+      "H3N2 A/South Australia/34/2019": 0.10581739246845245,
+      "H3N2 A/Darwin/9/2021": 0.31927868723869324,
+      "H3N2 A/Tasmania/503/2020": 0.10654209554195404,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 1.0
+    },
+    "H3N2 A/Hong Kong/4801/2014": {
+      "H3N2 A/South Australia/34/2019": 0.22998575866222382,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 1.0
+    },
+    "H3N2 A/South Australia/34/2019": {
+      "H3N2 A/Hong Kong/4801/2014": 1.0,
+      "H3N2 A/Tasmania/503/2020": 0.5894191265106201,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 0.7910922765731812
+    },
+    "H3N2 A/Darwin/9/2021": {
+      "H3N2 A/Kansas/14/2017": 0.1761709302663803,
+      "H3N2 A/South Australia/34/2019": 0.14276409149169922,
+      "H3N2 A/Tasmania/503/2020": 1.0,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 0.21872097253799438
+    },
+    "H3N2 A/Tasmania/503/2020": {
+      "H3N2 A/Hong Kong/4801/2014": 0.17516352236270905,
+      "H3N2 A/South Australia/34/2019": 1.0,
+      "H3N2 A/Darwin/9/2021": 0.20609065890312195
+    },
+    "H3N2 A/Singapore/INFIMH-160019/2016": {
+      "H3N2 A/Hong Kong/4801/2014": 1.0,
+      "H3N2 A/South Australia/34/2019": 0.18835216760635376
+    }
+  },
+  "H3N2 A/Hong Kong/4801/2014": {
+    "H3N2 A/Kansas/14/2017": {
+      "H3N2 A/South Australia/34/2019": 0.12148885428905487,
+      "H3N2 A/Darwin/9/2021": 0.2815089225769043,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 1.0
+    },
+    "H3N2 A/Hong Kong/2671/2019": {
+      "H3N2 A/South Australia/34/2019": 0.17161214351654053,
+      "H3N2 A/Darwin/9/2021": 0.1589047759771347,
+      "H3N2 A/Tasmania/503/2020": 1.0,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 0.21362543106079102
+    },
+    "H3N2 A/South Australia/34/2019": {
+      "H3N2 A/Tasmania/503/2020": 0.281840980052948,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 1.0
+    },
+    "H3N2 A/Darwin/9/2021": {
+      "H3N2 A/Kansas/14/2017": 0.1650606244802475,
+      "H3N2 A/Hong Kong/2671/2019": 1.0,
+      "H3N2 A/Tasmania/503/2020": 0.7093704342842102,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 0.15208742022514343
+    },
+    "H3N2 A/Tasmania/503/2020": {
+      "H3N2 A/Hong Kong/2671/2019": 1.0,
+      "H3N2 A/South Australia/34/2019": 0.8628562688827515,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 0.13467222452163696
+    },
+    "H3N2 A/Singapore/INFIMH-160019/2016": {
+      "H3N2 A/South Australia/34/2019": 1.0
+    }
+  },
+  "H3N2 A/South Australia/34/2019": {
+    "H3N2 A/Kansas/14/2017": {
+      "H3N2 A/Darwin/9/2021": 0.30905431509017944,
+      "H3N2 A/Tasmania/503/2020": 0.13483576476573944,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 1.0
+    },
+    "H3N2 A/Hong Kong/2671/2019": {
+      "H3N2 A/Hong Kong/4801/2014": 0.14017349481582642,
+      "H3N2 A/Darwin/9/2021": 0.14309574663639069,
+      "H3N2 A/Tasmania/503/2020": 1.0,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 0.16396541893482208
+    },
+    "H3N2 A/Hong Kong/4801/2014": {
+      "H3N2 A/Singapore/INFIMH-160019/2016": 1.0
+    },
+    "H3N2 A/Darwin/9/2021": {
+      "H3N2 A/Kansas/14/2017": 0.18720290064811707,
+      "H3N2 A/Hong Kong/2671/2019": 1.0,
+      "H3N2 A/Tasmania/503/2020": 0.8013321757316589,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 0.19052082300186157
+    },
+    "H3N2 A/Tasmania/503/2020": {
+      "H3N2 A/Hong Kong/2671/2019": 1.0,
+      "H3N2 A/Hong Kong/4801/2014": 0.3740100562572479,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 0.1483357697725296
+    },
+    "H3N2 A/Singapore/INFIMH-160019/2016": {
+      "H3N2 A/Hong Kong/4801/2014": 1.0
+    }
+  },
+  "H3N2 A/Darwin/9/2021": {
+    "H3N2 A/Kansas/14/2017": {
+      "H3N2 A/South Australia/34/2019": 0.16755689680576324,
+      "H3N2 A/Tasmania/503/2020": 0.13093537092208862,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 1.0
+    },
+    "H3N2 A/Hong Kong/2671/2019": {
+      "H3N2 A/South Australia/34/2019": 0.10444162040948868,
+      "H3N2 A/Tasmania/503/2020": 1.0,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 0.1042899340391159
+    },
+    "H3N2 A/Hong Kong/4801/2014": {
+      "H3N2 A/South Australia/34/2019": 0.2205958068370819,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 1.0
+    },
+    "H3N2 A/South Australia/34/2019": {
+      "H3N2 A/Hong Kong/2671/2019": 0.10152475535869598,
+      "H3N2 A/Hong Kong/4801/2014": 1.0,
+      "H3N2 A/Tasmania/503/2020": 0.4972449839115143,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 0.7301885485649109
+    },
+    "H3N2 A/Tasmania/503/2020": {
+      "H3N2 A/Hong Kong/2671/2019": 1.0,
+      "H3N2 A/South Australia/34/2019": 0.7190079689025879
+    },
+    "H3N2 A/Singapore/INFIMH-160019/2016": {
+      "H3N2 A/Hong Kong/4801/2014": 1.0,
+      "H3N2 A/South Australia/34/2019": 0.18092228472232819
+    }
+  },
+  "H3N2 A/Tasmania/503/2020": {
+    "H3N2 A/Kansas/14/2017": {
+      "H3N2 A/South Australia/34/2019": 0.1694573611021042,
+      "H3N2 A/Darwin/9/2021": 0.38395577669143677,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 1.0
+    },
+    "H3N2 A/Hong Kong/2671/2019": {
+      "H3N2 A/Hong Kong/4801/2014": 0.37281277775764465,
+      "H3N2 A/South Australia/34/2019": 1.0,
+      "H3N2 A/Darwin/9/2021": 0.6692283153533936,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 0.30662575364112854
+    },
+    "H3N2 A/Hong Kong/4801/2014": {
+      "H3N2 A/South Australia/34/2019": 0.23011274635791779,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 1.0
+    },
+    "H3N2 A/South Australia/34/2019": {
+      "H3N2 A/Hong Kong/2671/2019": 0.21422450244426727,
+      "H3N2 A/Hong Kong/4801/2014": 1.0,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 0.6286250352859497
+    },
+    "H3N2 A/Darwin/9/2021": {
+      "H3N2 A/Kansas/14/2017": 0.1787845939397812,
+      "H3N2 A/Hong Kong/2671/2019": 1.0,
+      "H3N2 A/South Australia/34/2019": 0.17970749735832214,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 0.2056645154953003
+    },
+    "H3N2 A/Singapore/INFIMH-160019/2016": {
+      "H3N2 A/Hong Kong/4801/2014": 1.0,
+      "H3N2 A/South Australia/34/2019": 0.2035573571920395
+    }
+  },
+  "H3N2 A/Singapore/INFIMH-160019/2016": {
+    "H3N2 A/Kansas/14/2017": {
+      "H3N2 A/Hong Kong/2671/2019": 0.19421567022800446,
+      "H3N2 A/Hong Kong/4801/2014": 1.0,
+      "H3N2 A/South Australia/34/2019": 0.4749172329902649,
+      "H3N2 A/Darwin/9/2021": 0.5321664810180664,
+      "H3N2 A/Tasmania/503/2020": 0.26764774322509766
+    },
+    "H3N2 A/Hong Kong/2671/2019": {
+      "H3N2 A/Hong Kong/4801/2014": 0.23982180655002594,
+      "H3N2 A/South Australia/34/2019": 0.15747478604316711,
+      "H3N2 A/Darwin/9/2021": 0.16908596456050873,
+      "H3N2 A/Tasmania/503/2020": 1.0
+    },
+    "H3N2 A/Hong Kong/4801/2014": {
+      "H3N2 A/South Australia/34/2019": 1.0
+    },
+    "H3N2 A/South Australia/34/2019": {
+      "H3N2 A/Hong Kong/4801/2014": 1.0,
+      "H3N2 A/Tasmania/503/2020": 0.24300672113895416
+    },
+    "H3N2 A/Darwin/9/2021": {
+      "H3N2 A/Kansas/14/2017": 0.1847689300775528,
+      "H3N2 A/Hong Kong/2671/2019": 1.0,
+      "H3N2 A/South Australia/34/2019": 0.1213158592581749,
+      "H3N2 A/Tasmania/503/2020": 0.728177547454834
+    },
+    "H3N2 A/Tasmania/503/2020": {
+      "H3N2 A/Hong Kong/2671/2019": 1.0,
+      "H3N2 A/Hong Kong/4801/2014": 0.20110027492046356,
+      "H3N2 A/South Australia/34/2019": 0.9064904451370239
+    }
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "H3N2 A/Bilthoven/1761/1976": {
+    "H3N2 A/Netherlands/620/1989": {
+      "H3N2 A/Netherlands/233/1982": 0.5688086152076721,
+      "H3N2 A/Netherlands/823/1992": 1.0
+    },
+    "H3N2 A/Bilthoven/16190/1968": {
+      "H3N2 A/Perth/16/2009": 0.12703242897987366,
+      "H3N2 A/Bilthoven/2271/1976": 1.0
+    },
+    "H3N2 A/Perth/16/2009": {
+      "H3N2 A/New York/55/2004": 1.0
+    },
+    "H3N2 A/Netherlands/233/1982": {
+      "H3N2 A/Netherlands/620/1989": 0.4473446309566498,
+      "H3N2 A/Bilthoven/2271/1976": 1.0
+    },
+    "H3N2 A/New York/55/2004": {
+      "H3N2 A/Perth/16/2009": 1.0
+    },
+    "H3N2 A/Tasmania/1/1997": {
+      "H3N2 A/New York/55/2004": 0.19977982342243195,
+      "H3N2 A/Netherlands/823/1992": 1.0
+    },
+    "H3N2 A/Netherlands/823/1992": {
+      "H3N2 A/Netherlands/620/1989": 1.0,
+      "H3N2 A/Tasmania/1/1997": 0.47771501541137695
+    },
+    "H3N2 A/Bilthoven/2271/1976": {
+      "H3N2 A/Bilthoven/16190/1968": 0.22235673666000366,
+      "H3N2 A/Netherlands/233/1982": 1.0
+    }
+  },
+  "H3N2 A/Netherlands/620/1989": {
+    "H3N2 A/Bilthoven/1761/1976": {
+      "H3N2 A/Netherlands/823/1992": 0.11784668266773224,
+      "H3N2 A/Bilthoven/2271/1976": 1.0
+    },
+    "H3N2 A/Bilthoven/16190/1968": {
+      "H3N2 A/Bilthoven/1761/1976": 0.9495289921760559,
+      "H3N2 A/Perth/16/2009": 0.2778198719024658,
+      "H3N2 A/Netherlands/233/1982": 0.4038028419017792,
+      "H3N2 A/New York/55/2004": 0.3203555643558502,
+      "H3N2 A/Tasmania/1/1997": 0.10400328785181046,
+      "H3N2 A/Bilthoven/2271/1976": 1.0
+    },
+    "H3N2 A/Perth/16/2009": {
+      "H3N2 A/New York/55/2004": 1.0
+    },
+    "H3N2 A/Netherlands/233/1982": {
+      "H3N2 A/Netherlands/823/1992": 0.338168740272522,
+      "H3N2 A/Bilthoven/2271/1976": 1.0
+    },
+    "H3N2 A/New York/55/2004": {
+      "H3N2 A/Perth/16/2009": 1.0
+    },
+    "H3N2 A/Tasmania/1/1997": {
+      "H3N2 A/New York/55/2004": 0.19116610288619995,
+      "H3N2 A/Netherlands/823/1992": 1.0
+    },
+    "H3N2 A/Netherlands/823/1992": {
+      "H3N2 A/Bilthoven/1761/1976": 0.16471368074417114,
+      "H3N2 A/Netherlands/233/1982": 0.653386116027832,
+      "H3N2 A/Tasmania/1/1997": 1.0,
+      "H3N2 A/Bilthoven/2271/1976": 0.21557417511940002
+    },
+    "H3N2 A/Bilthoven/2271/1976": {
+      "H3N2 A/Bilthoven/1761/1976": 1.0,
+      "H3N2 A/Netherlands/233/1982": 0.8825869560241699,
+      "H3N2 A/Netherlands/823/1992": 0.13000084459781647
+    }
+  },
+  "H3N2 A/Bilthoven/16190/1968": {
+    "H3N2 A/Bilthoven/1761/1976": {
+      "H3N2 A/Bilthoven/2271/1976": 1.0
+    },
+    "H3N2 A/Netherlands/620/1989": {
+      "H3N2 A/Netherlands/233/1982": 0.5786875486373901,
+      "H3N2 A/Netherlands/823/1992": 1.0
+    },
+    "H3N2 A/Perth/16/2009": {
+      "H3N2 A/New York/55/2004": 1.0
+    },
+    "H3N2 A/Netherlands/233/1982": {
+      "H3N2 A/Netherlands/620/1989": 0.6286715865135193,
+      "H3N2 A/Bilthoven/2271/1976": 1.0
+    },
+    "H3N2 A/New York/55/2004": {
+      "H3N2 A/Perth/16/2009": 1.0
+    },
+    "H3N2 A/Tasmania/1/1997": {
+      "H3N2 A/New York/55/2004": 0.22949884831905365,
+      "H3N2 A/Netherlands/823/1992": 1.0
+    },
+    "H3N2 A/Netherlands/823/1992": {
+      "H3N2 A/Netherlands/620/1989": 1.0,
+      "H3N2 A/Tasmania/1/1997": 0.4591306149959564
+    },
+    "H3N2 A/Bilthoven/2271/1976": {
+      "H3N2 A/Bilthoven/1761/1976": 1.0,
+      "H3N2 A/Netherlands/233/1982": 0.5952508449554443
+    }
+  },
+  "H3N2 A/Perth/16/2009": {
+    "H3N2 A/Bilthoven/1761/1976": {
+      "H3N2 A/Netherlands/823/1992": 0.10807724297046661,
+      "H3N2 A/Bilthoven/2271/1976": 1.0
+    },
+    "H3N2 A/Netherlands/620/1989": {
+      "H3N2 A/Netherlands/233/1982": 0.5669977068901062,
+      "H3N2 A/Netherlands/823/1992": 1.0
+    },
+    "H3N2 A/Bilthoven/16190/1968": {
+      "H3N2 A/Bilthoven/1761/1976": 1.0,
+      "H3N2 A/Netherlands/233/1982": 0.24822254478931427,
+      "H3N2 A/Tasmania/1/1997": 0.1379629671573639,
+      "H3N2 A/Bilthoven/2271/1976": 0.9643910527229309
+    },
+    "H3N2 A/Netherlands/233/1982": {
+      "H3N2 A/Netherlands/620/1989": 0.579529345035553,
+      "H3N2 A/Bilthoven/2271/1976": 1.0
+    },
+    "H3N2 A/New York/55/2004": {
+      "H3N2 A/Netherlands/620/1989": 0.22094444930553436,
+      "H3N2 A/Tasmania/1/1997": 1.0,
+      "H3N2 A/Netherlands/823/1992": 0.30042290687561035
+    },
+    "H3N2 A/Tasmania/1/1997": {
+      "H3N2 A/New York/55/2004": 0.16922160983085632,
+      "H3N2 A/Netherlands/823/1992": 1.0
+    },
+    "H3N2 A/Netherlands/823/1992": {
+      "H3N2 A/Netherlands/620/1989": 1.0,
+      "H3N2 A/Tasmania/1/1997": 0.45670777559280396
+    },
+    "H3N2 A/Bilthoven/2271/1976": {
+      "H3N2 A/Bilthoven/1761/1976": 1.0,
+      "H3N2 A/Bilthoven/16190/1968": 0.10209029912948608,
+      "H3N2 A/Netherlands/233/1982": 0.7061383128166199
+    }
+  },
+  "H3N2 A/Netherlands/233/1982": {
+    "H3N2 A/Bilthoven/1761/1976": {
+      "H3N2 A/Bilthoven/2271/1976": 1.0
+    },
+    "H3N2 A/Netherlands/620/1989": {
+      "H3N2 A/Netherlands/823/1992": 1.0,
+      "H3N2 A/Bilthoven/2271/1976": 0.3350296914577484
+    },
+    "H3N2 A/Bilthoven/16190/1968": {
+      "H3N2 A/Bilthoven/1761/1976": 1.0,
+      "H3N2 A/Netherlands/620/1989": 0.19601987302303314,
+      "H3N2 A/Perth/16/2009": 0.33043140172958374,
+      "H3N2 A/New York/55/2004": 0.23979970812797546,
+      "H3N2 A/Tasmania/1/1997": 0.11161457747220993,
+      "H3N2 A/Bilthoven/2271/1976": 0.8280516266822815
+    },
+    "H3N2 A/Perth/16/2009": {
+      "H3N2 A/New York/55/2004": 1.0
+    },
+    "H3N2 A/New York/55/2004": {
+      "H3N2 A/Perth/16/2009": 1.0
+    },
+    "H3N2 A/Tasmania/1/1997": {
+      "H3N2 A/New York/55/2004": 0.2442699819803238,
+      "H3N2 A/Netherlands/823/1992": 1.0
+    },
+    "H3N2 A/Netherlands/823/1992": {
+      "H3N2 A/Netherlands/620/1989": 1.0,
+      "H3N2 A/Tasmania/1/1997": 0.37194058299064636
+    },
+    "H3N2 A/Bilthoven/2271/1976": {
+      "H3N2 A/Bilthoven/1761/1976": 1.0,
+      "H3N2 A/Netherlands/620/1989": 0.2848571836948395
+    }
+  },
+  "H3N2 A/New York/55/2004": {
+    "H3N2 A/Bilthoven/1761/1976": {
+      "H3N2 A/Netherlands/823/1992": 0.1046854555606842,
+      "H3N2 A/Bilthoven/2271/1976": 1.0
+    },
+    "H3N2 A/Netherlands/620/1989": {
+      "H3N2 A/Netherlands/233/1982": 0.5604215264320374,
+      "H3N2 A/Netherlands/823/1992": 1.0
+    },
+    "H3N2 A/Bilthoven/16190/1968": {
+      "H3N2 A/Bilthoven/1761/1976": 0.8861537575721741,
+      "H3N2 A/Netherlands/620/1989": 0.10013516247272491,
+      "H3N2 A/Perth/16/2009": 0.11768782138824463,
+      "H3N2 A/Netherlands/233/1982": 0.2344447523355484,
+      "H3N2 A/Tasmania/1/1997": 0.16831861436367035,
+      "H3N2 A/Bilthoven/2271/1976": 1.0
+    },
+    "H3N2 A/Perth/16/2009": {
+      "H3N2 A/Bilthoven/1761/1976": 0.15706615149974823,
+      "H3N2 A/Netherlands/620/1989": 0.79148930311203,
+      "H3N2 A/Bilthoven/16190/1968": 1.0,
+      "H3N2 A/Netherlands/233/1982": 0.4942520260810852,
+      "H3N2 A/Tasmania/1/1997": 0.5452233552932739,
+      "H3N2 A/Netherlands/823/1992": 0.6638040542602539
+    },
+    "H3N2 A/Netherlands/233/1982": {
+      "H3N2 A/Netherlands/620/1989": 0.596556544303894,
+      "H3N2 A/Bilthoven/2271/1976": 1.0
+    },
+    "H3N2 A/Tasmania/1/1997": {
+      "H3N2 A/Netherlands/823/1992": 1.0
+    },
+    "H3N2 A/Netherlands/823/1992": {
+      "H3N2 A/Netherlands/620/1989": 1.0,
+      "H3N2 A/Tasmania/1/1997": 0.4962598979473114
+    },
+    "H3N2 A/Bilthoven/2271/1976": {
+      "H3N2 A/Bilthoven/1761/1976": 1.0,
+      "H3N2 A/Bilthoven/16190/1968": 0.10896292328834534,
+      "H3N2 A/Netherlands/233/1982": 0.684669017791748
+    }
+  },
+  "H3N2 A/Tasmania/1/1997": {
+    "H3N2 A/Bilthoven/1761/1976": {
+      "H3N2 A/Netherlands/823/1992": 0.1393595188856125,
+      "H3N2 A/Bilthoven/2271/1976": 1.0
+    },
+    "H3N2 A/Netherlands/620/1989": {
+      "H3N2 A/Netherlands/233/1982": 0.5260639786720276,
+      "H3N2 A/Netherlands/823/1992": 1.0
+    },
+    "H3N2 A/Bilthoven/16190/1968": {
+      "H3N2 A/Bilthoven/1761/1976": 0.7481922507286072,
+      "H3N2 A/Perth/16/2009": 0.2467457801103592,
+      "H3N2 A/Netherlands/233/1982": 0.19427460432052612,
+      "H3N2 A/New York/55/2004": 0.2620002329349518,
+      "H3N2 A/Bilthoven/2271/1976": 1.0
+    },
+    "H3N2 A/Perth/16/2009": {
+      "H3N2 A/New York/55/2004": 1.0
+    },
+    "H3N2 A/Netherlands/233/1982": {
+      "H3N2 A/Netherlands/620/1989": 0.5814865231513977,
+      "H3N2 A/Bilthoven/2271/1976": 1.0
+    },
+    "H3N2 A/New York/55/2004": {
+      "H3N2 A/Perth/16/2009": 1.0
+    },
+    "H3N2 A/Netherlands/823/1992": {
+      "H3N2 A/Netherlands/620/1989": 1.0
+    },
+    "H3N2 A/Bilthoven/2271/1976": {
+      "H3N2 A/Bilthoven/1761/1976": 1.0,
+      "H3N2 A/Bilthoven/16190/1968": 0.12222728878259659,
+      "H3N2 A/Netherlands/233/1982": 0.6908309459686279
+    }
+  },
+  "H3N2 A/Netherlands/823/1992": {
+    "H3N2 A/Bilthoven/1761/1976": {
+      "H3N2 A/Bilthoven/2271/1976": 1.0
+    },
+    "H3N2 A/Netherlands/620/1989": {
+      "H3N2 A/Netherlands/233/1982": 1.0,
+      "H3N2 A/Tasmania/1/1997": 0.15311771631240845,
+      "H3N2 A/Bilthoven/2271/1976": 0.18839579820632935
+    },
+    "H3N2 A/Bilthoven/16190/1968": {
+      "H3N2 A/Bilthoven/1761/1976": 0.9264058470726013,
+      "H3N2 A/Perth/16/2009": 0.28334909677505493,
+      "H3N2 A/Netherlands/233/1982": 0.2161666601896286,
+      "H3N2 A/New York/55/2004": 0.2251157909631729,
+      "H3N2 A/Bilthoven/2271/1976": 1.0
+    },
+    "H3N2 A/Perth/16/2009": {
+      "H3N2 A/New York/55/2004": 1.0
+    },
+    "H3N2 A/Netherlands/233/1982": {
+      "H3N2 A/Netherlands/620/1989": 0.763058066368103,
+      "H3N2 A/Bilthoven/2271/1976": 1.0
+    },
+    "H3N2 A/New York/55/2004": {
+      "H3N2 A/Perth/16/2009": 1.0,
+      "H3N2 A/Tasmania/1/1997": 0.12071719765663147
+    },
+    "H3N2 A/Tasmania/1/1997": {
+      "H3N2 A/Bilthoven/1761/1976": 0.2263430804014206,
+      "H3N2 A/Netherlands/620/1989": 0.785659909248352,
+      "H3N2 A/New York/55/2004": 1.0
+    },
+    "H3N2 A/Bilthoven/2271/1976": {
+      "H3N2 A/Bilthoven/1761/1976": 1.0,
+      "H3N2 A/Netherlands/620/1989": 0.14270928502082825,
+      "H3N2 A/Bilthoven/16190/1968": 0.11420784890651703,
+      "H3N2 A/Netherlands/233/1982": 0.7989826798439026
+    }
+  },
+  "H3N2 A/Bilthoven/2271/1976": {
+    "H3N2 A/Bilthoven/1761/1976": {
+      "H3N2 A/Bilthoven/16190/1968": 0.5171025991439819,
+      "H3N2 A/Netherlands/233/1982": 1.0,
+      "H3N2 A/Netherlands/823/1992": 0.1785126030445099
+    },
+    "H3N2 A/Netherlands/620/1989": {
+      "H3N2 A/Netherlands/233/1982": 0.7267895936965942,
+      "H3N2 A/Netherlands/823/1992": 1.0
+    },
+    "H3N2 A/Bilthoven/16190/1968": {
+      "H3N2 A/Bilthoven/1761/1976": 1.0,
+      "H3N2 A/Perth/16/2009": 0.1231035366654396
+    },
+    "H3N2 A/Perth/16/2009": {
+      "H3N2 A/New York/55/2004": 1.0
+    },
+    "H3N2 A/Netherlands/233/1982": {
+      "H3N2 A/Bilthoven/1761/1976": 0.5664088726043701,
+      "H3N2 A/Netherlands/620/1989": 1.0,
+      "H3N2 A/Netherlands/823/1992": 0.15122191607952118
+    },
+    "H3N2 A/New York/55/2004": {
+      "H3N2 A/Perth/16/2009": 1.0
+    },
+    "H3N2 A/Tasmania/1/1997": {
+      "H3N2 A/New York/55/2004": 0.2194080501794815,
+      "H3N2 A/Netherlands/823/1992": 1.0
+    },
+    "H3N2 A/Netherlands/823/1992": {
+      "H3N2 A/Netherlands/620/1989": 1.0,
+      "H3N2 A/Netherlands/233/1982": 0.11056772619485855,
+      "H3N2 A/Tasmania/1/1997": 0.4331618547439575
+    }
+  }
+}

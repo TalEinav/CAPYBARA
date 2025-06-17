@@ -1,0 +1,90 @@
+{
+  "H3N2 A/Beijing/32/1992": {
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/Wyoming/3/2003": [
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Wuhan/359/1995": [
+      "H3N2 A/Sydney/5/1997"
+    ]
+  },
+  "H3N2 A/Sydney/5/1997": {
+    "H3N2 A/Beijing/32/1992": [
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/Wyoming/3/2003": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/Wuhan/359/1995": [
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Beijing/32/1992"
+    ]
+  },
+  "H3N2 A/Wyoming/3/2003": {
+    "H3N2 A/Beijing/32/1992": [
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Wuhan/359/1995": [
+      "H3N2 A/Sydney/5/1997"
+    ]
+  },
+  "H3N2 A/New York/55/2004": {
+    "H3N2 A/Beijing/32/1992": [
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Wuhan/359/1995"
+    ],
+    "H3N2 A/Wyoming/3/2003": [
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Wuhan/359/1995": [
+      "H3N2 A/Sydney/5/1997"
+    ]
+  },
+  "H3N2 A/Wuhan/359/1995": {
+    "H3N2 A/Beijing/32/1992": [
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/Wyoming/3/2003",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Wyoming/3/2003": [
+      "H3N2 A/Beijing/32/1992",
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Sydney/5/1997"
+    ]
+  }
+}

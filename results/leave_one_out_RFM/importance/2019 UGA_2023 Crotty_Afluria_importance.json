@@ -1,0 +1,94 @@
+{
+  "H3N2 A/Kansas/14/2017": {
+    "H3N2 A/Hong Kong/2671/2019": {
+      "H3N2 A/South Australia/34/2019": 0.6257452964782715,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 1.0
+    },
+    "H3N2 A/Hong Kong/4801/2014": {
+      "H3N2 A/Singapore/INFIMH-160019/2016": 1.0
+    },
+    "H3N2 A/South Australia/34/2019": {
+      "H3N2 A/Hong Kong/2671/2019": 0.10333060473203659,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 1.0
+    },
+    "H3N2 A/Singapore/INFIMH-160019/2016": {
+      "H3N2 A/Hong Kong/2671/2019": 0.15208517014980316,
+      "H3N2 A/Hong Kong/4801/2014": 0.35631075501441956,
+      "H3N2 A/South Australia/34/2019": 1.0
+    }
+  },
+  "H3N2 A/Hong Kong/2671/2019": {
+    "H3N2 A/Kansas/14/2017": {
+      "H3N2 A/Hong Kong/4801/2014": 0.35532814264297485,
+      "H3N2 A/South Australia/34/2019": 0.133352592587471,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 1.0
+    },
+    "H3N2 A/Hong Kong/4801/2014": {
+      "H3N2 A/Singapore/INFIMH-160019/2016": 1.0
+    },
+    "H3N2 A/South Australia/34/2019": {
+      "H3N2 A/Singapore/INFIMH-160019/2016": 1.0
+    },
+    "H3N2 A/Singapore/INFIMH-160019/2016": {
+      "H3N2 A/Hong Kong/4801/2014": 0.30071821808815,
+      "H3N2 A/South Australia/34/2019": 1.0
+    }
+  },
+  "H3N2 A/Hong Kong/4801/2014": {
+    "H3N2 A/Kansas/14/2017": {
+      "H3N2 A/Hong Kong/2671/2019": 1.0,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 0.6676487326622009
+    },
+    "H3N2 A/Hong Kong/2671/2019": {
+      "H3N2 A/Kansas/14/2017": 0.5884473323822021,
+      "H3N2 A/South Australia/34/2019": 0.677395224571228,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 1.0
+    },
+    "H3N2 A/South Australia/34/2019": {
+      "H3N2 A/Singapore/INFIMH-160019/2016": 1.0
+    },
+    "H3N2 A/Singapore/INFIMH-160019/2016": {
+      "H3N2 A/Hong Kong/2671/2019": 0.11380381137132645,
+      "H3N2 A/South Australia/34/2019": 1.0
+    }
+  },
+  "H3N2 A/South Australia/34/2019": {
+    "H3N2 A/Kansas/14/2017": {
+      "H3N2 A/Hong Kong/2671/2019": 1.0,
+      "H3N2 A/Hong Kong/4801/2014": 0.19024255871772766,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 0.36905643343925476
+    },
+    "H3N2 A/Hong Kong/2671/2019": {
+      "H3N2 A/Kansas/14/2017": 0.3109481632709503,
+      "H3N2 A/Singapore/INFIMH-160019/2016": 1.0
+    },
+    "H3N2 A/Hong Kong/4801/2014": {
+      "H3N2 A/Singapore/INFIMH-160019/2016": 1.0
+    },
+    "H3N2 A/Singapore/INFIMH-160019/2016": {
+      "H3N2 A/Kansas/14/2017": 0.10793262720108032,
+      "H3N2 A/Hong Kong/2671/2019": 0.6795952916145325,
+      "H3N2 A/Hong Kong/4801/2014": 1.0
+    }
+  },
+  "H3N2 A/Singapore/INFIMH-160019/2016": {
+    "H3N2 A/Kansas/14/2017": {
+      "H3N2 A/Hong Kong/2671/2019": 1.0,
+      "H3N2 A/Hong Kong/4801/2014": 0.3103853762149811,
+      "H3N2 A/South Australia/34/2019": 0.1000756323337555
+    },
+    "H3N2 A/Hong Kong/2671/2019": {
+      "H3N2 A/Kansas/14/2017": 0.4943171739578247,
+      "H3N2 A/South Australia/34/2019": 1.0
+    },
+    "H3N2 A/Hong Kong/4801/2014": {
+      "H3N2 A/Kansas/14/2017": 0.17150959372520447,
+      "H3N2 A/Hong Kong/2671/2019": 0.1229119673371315,
+      "H3N2 A/South Australia/34/2019": 1.0
+    },
+    "H3N2 A/South Australia/34/2019": {
+      "H3N2 A/Hong Kong/2671/2019": 1.0,
+      "H3N2 A/Hong Kong/4801/2014": 0.608285665512085
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "H3N2 A/Brisbane/10/2007": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Fujian/411/2002": [
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Fujian/411/2002"
+    ]
+  },
+  "H3N2 A/Perth/16/2009": {
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Fujian/411/2002": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Brisbane/10/2007"
+    ]
+  },
+  "H3N2 A/Fujian/411/2002": {
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Brisbane/10/2007",
+      "H3N2 A/Perth/16/2009"
+    ]
+  },
+  "H3N2 A/Wisconsin/67/2005": {
+    "H3N2 A/Brisbane/10/2007": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Fujian/411/2002"
+    ],
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Brisbane/10/2007"
+    ],
+    "H3N2 A/Fujian/411/2002": [
+      "H3N2 A/Brisbane/10/2007"
+    ]
+  }
+}

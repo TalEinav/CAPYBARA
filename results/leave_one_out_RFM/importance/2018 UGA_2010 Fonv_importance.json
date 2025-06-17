@@ -1,0 +1,26 @@
+{
+  "H3N2 A/New York/55/2004": {
+    "H3N2 A/Panama/2007/1999": {
+      "H3N2 A/Perth/16/2009": 1.0
+    },
+    "H3N2 A/Perth/16/2009": {
+      "H3N2 A/Panama/2007/1999": 1.0
+    }
+  },
+  "H3N2 A/Panama/2007/1999": {
+    "H3N2 A/New York/55/2004": {
+      "H3N2 A/Perth/16/2009": 1.0
+    },
+    "H3N2 A/Perth/16/2009": {
+      "H3N2 A/New York/55/2004": 1.0
+    }
+  },
+  "H3N2 A/Perth/16/2009": {
+    "H3N2 A/New York/55/2004": {
+      "H3N2 A/Panama/2007/1999": 1.0
+    },
+    "H3N2 A/Panama/2007/1999": {
+      "H3N2 A/New York/55/2004": 1.0
+    }
+  }
+}

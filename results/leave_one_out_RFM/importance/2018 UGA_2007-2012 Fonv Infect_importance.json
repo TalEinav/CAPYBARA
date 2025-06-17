@@ -1,0 +1,52 @@
+{
+  "H3N2 A/Victoria/361/2011": {
+    "H3N2 A/Perth/16/2009": {
+      "H3N2 A/Wisconsin/67/2005": 1.0,
+      "H3N2 A/New York/55/2004": 0.22879447042942047
+    },
+    "H3N2 A/Wisconsin/67/2005": {
+      "H3N2 A/Perth/16/2009": 0.24136899411678314,
+      "H3N2 A/New York/55/2004": 1.0
+    },
+    "H3N2 A/New York/55/2004": {
+      "H3N2 A/Wisconsin/67/2005": 1.0
+    }
+  },
+  "H3N2 A/Perth/16/2009": {
+    "H3N2 A/Victoria/361/2011": {
+      "H3N2 A/Wisconsin/67/2005": 1.0
+    },
+    "H3N2 A/Wisconsin/67/2005": {
+      "H3N2 A/Victoria/361/2011": 0.1783171445131302,
+      "H3N2 A/New York/55/2004": 1.0
+    },
+    "H3N2 A/New York/55/2004": {
+      "H3N2 A/Wisconsin/67/2005": 1.0
+    }
+  },
+  "H3N2 A/Wisconsin/67/2005": {
+    "H3N2 A/Victoria/361/2011": {
+      "H3N2 A/Perth/16/2009": 1.0
+    },
+    "H3N2 A/Perth/16/2009": {
+      "H3N2 A/Victoria/361/2011": 1.0,
+      "H3N2 A/New York/55/2004": 0.15458917617797852
+    },
+    "H3N2 A/New York/55/2004": {
+      "H3N2 A/Perth/16/2009": 1.0
+    }
+  },
+  "H3N2 A/New York/55/2004": {
+    "H3N2 A/Victoria/361/2011": {
+      "H3N2 A/Perth/16/2009": 1.0
+    },
+    "H3N2 A/Perth/16/2009": {
+      "H3N2 A/Victoria/361/2011": 1.0,
+      "H3N2 A/Wisconsin/67/2005": 0.21702125668525696
+    },
+    "H3N2 A/Wisconsin/67/2005": {
+      "H3N2 A/Victoria/361/2011": 0.1777772158384323,
+      "H3N2 A/Perth/16/2009": 1.0
+    }
+  }
+}

@@ -1,0 +1,1543 @@
+{
+  "H3N2 A/Perth/16/2009": {
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Shandong/9/1993": [
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Mississippi/1/1985": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Uruguay/716/2007": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Hong Kong/4801/2014": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Victoria/361/2011"
+    ],
+    "H3N2 A/Hong Kong/1/1968": [
+      "H3N2 A/Port Chalmers/1/1973"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Switzerland/9715293/2013": [
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Sichuan/60/1989": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Texas/1/1977": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Port Chalmers/1/1973": [
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Mississippi/1/1985",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Victoria/361/2011"
+    ]
+  },
+  "H3N2 A/Panama/2007/1999": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Shandong/9/1993": [
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Mississippi/1/1985": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Uruguay/716/2007": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Hong Kong/4801/2014": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Hong Kong/1/1968": [
+      "H3N2 A/Port Chalmers/1/1973"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Switzerland/9715293/2013": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Sichuan/60/1989": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Texas/1/1977": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Port Chalmers/1/1973": [
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Victoria/361/2011"
+    ]
+  },
+  "H3N2 A/Shandong/9/1993": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Mississippi/1/1985": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Sichuan/60/1989",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Uruguay/716/2007": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Hong Kong/4801/2014": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Hong Kong/1/1968": [
+      "H3N2 A/Port Chalmers/1/1973"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Switzerland/9715293/2013": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Sichuan/60/1989": [
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Texas/1/1977": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Port Chalmers/1/1973": [
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Victoria/361/2011"
+    ]
+  },
+  "H3N2 A/Sydney/5/1997": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Shandong/9/1993": [
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Mississippi/1/1985": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Uruguay/716/2007": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Hong Kong/4801/2014": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Hong Kong/1/1968": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Panama/2007/1999"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Switzerland/9715293/2013": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Sichuan/60/1989": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Texas/1/1977": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Port Chalmers/1/1973": [
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Victoria/361/2011"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Victoria/361/2011"
+    ]
+  },
+  "H3N2 A/Victoria/361/2011": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Shandong/9/1993": [
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Mississippi/1/1985": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Uruguay/716/2007": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Hong Kong/4801/2014": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013"
+    ],
+    "H3N2 A/Hong Kong/1/1968": [
+      "H3N2 A/Port Chalmers/1/1973"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Switzerland/9715293/2013": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Sichuan/60/1989": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Texas/1/1977": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Port Chalmers/1/1973": [
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hong Kong/4801/2014"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013"
+    ]
+  },
+  "H3N2 A/Mississippi/1/1985": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Shandong/9/1993": [
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Uruguay/716/2007": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Hong Kong/4801/2014": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Hong Kong/1/1968": [
+      "H3N2 A/Port Chalmers/1/1973"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Switzerland/9715293/2013": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Sichuan/60/1989": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Texas/1/1977": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Switzerland/9715293/2013"
+    ],
+    "H3N2 A/Port Chalmers/1/1973": [
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Victoria/361/2011"
+    ]
+  },
+  "H3N2 A/Uruguay/716/2007": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Victoria/361/2011"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Shandong/9/1993": [
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Mississippi/1/1985": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Hong Kong/4801/2014": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Victoria/361/2011"
+    ],
+    "H3N2 A/Hong Kong/1/1968": [
+      "H3N2 A/Port Chalmers/1/1973"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Switzerland/9715293/2013": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Sichuan/60/1989": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Texas/1/1977": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Port Chalmers/1/1973": [
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Victoria/361/2011"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Victoria/361/2011"
+    ]
+  },
+  "H3N2 A/Hong Kong/4801/2014": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Victoria/361/2011"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Shandong/9/1993": [
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013"
+    ],
+    "H3N2 A/Mississippi/1/1985": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Uruguay/716/2007": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Hong Kong/1/1968": [
+      "H3N2 A/Port Chalmers/1/1973"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Switzerland/9715293/2013": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Sichuan/60/1989": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Texas/1/1977": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Port Chalmers/1/1973": [
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Victoria/361/2011"
+    ]
+  },
+  "H3N2 A/Hong Kong/1/1968": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Shandong/9/1993": [
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Mississippi/1/1985": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Uruguay/716/2007": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Hong Kong/4801/2014": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Switzerland/9715293/2013": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Sichuan/60/1989": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Texas/1/1977": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Port Chalmers/1/1973": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Mississippi/1/1985",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Victoria/361/2011"
+    ]
+  },
+  "H3N2 A/New York/55/2004": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Shandong/9/1993": [
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Mississippi/1/1985": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Uruguay/716/2007": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Hong Kong/4801/2014": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Hong Kong/1/1968": [
+      "H3N2 A/Port Chalmers/1/1973"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Switzerland/9715293/2013": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Sichuan/60/1989": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Texas/1/1977": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Port Chalmers/1/1973": [
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Victoria/361/2011"
+    ]
+  },
+  "H3N2 A/Nanchang/933/1995": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Shandong/9/1993": [
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Panama/2007/1999"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Mississippi/1/1985": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Uruguay/716/2007": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Hong Kong/4801/2014": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Hong Kong/1/1968": [
+      "H3N2 A/Port Chalmers/1/1973"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Switzerland/9715293/2013": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Sichuan/60/1989": [
+      "H3N2 A/Shandong/9/1993"
+    ],
+    "H3N2 A/Texas/1/1977": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Port Chalmers/1/1973": [
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Victoria/361/2011"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Victoria/361/2011"
+    ]
+  },
+  "H3N2 A/Switzerland/9715293/2013": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Victoria/361/2011"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Shandong/9/1993": [
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Mississippi/1/1985": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Uruguay/716/2007": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Hong Kong/4801/2014": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Victoria/361/2011"
+    ],
+    "H3N2 A/Hong Kong/1/1968": [
+      "H3N2 A/Port Chalmers/1/1973"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Sichuan/60/1989": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Texas/1/1977": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Port Chalmers/1/1973": [
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Victoria/361/2011"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Victoria/361/2011"
+    ]
+  },
+  "H3N2 A/Sichuan/60/1989": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Shandong/9/1993": [
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Mississippi/1/1985": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Uruguay/716/2007": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Hong Kong/4801/2014": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Hong Kong/1/1968": [
+      "H3N2 A/Port Chalmers/1/1973"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013"
+    ],
+    "H3N2 A/Switzerland/9715293/2013": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Texas/1/1977": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Port Chalmers/1/1973": [
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Victoria/361/2011"
+    ]
+  },
+  "H3N2 A/Texas/1/1977": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Shandong/9/1993": [
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sichuan/60/1989",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Mississippi/1/1985": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Shandong/9/1993"
+    ],
+    "H3N2 A/Uruguay/716/2007": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Hong Kong/4801/2014": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Hong Kong/1/1968": [
+      "H3N2 A/Port Chalmers/1/1973"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Switzerland/9715293/2013": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Victoria/361/2011"
+    ],
+    "H3N2 A/Sichuan/60/1989": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Port Chalmers/1/1973": [
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Victoria/361/2011"
+    ]
+  },
+  "H3N2 A/Port Chalmers/1/1973": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Shandong/9/1993": [
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Mississippi/1/1985": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Uruguay/716/2007": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Hong Kong/4801/2014": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Hong Kong/1/1968": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Mississippi/1/1985",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Switzerland/9715293/2013": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Sichuan/60/1989": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Texas/1/1977": [
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Victoria/361/2011"
+    ]
+  },
+  "H3N2 A/Texas/50/2012": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Victoria/361/2011"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Shandong/9/1993": [
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Mississippi/1/1985": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Uruguay/716/2007": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Hong Kong/4801/2014": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Victoria/361/2011"
+    ],
+    "H3N2 A/Hong Kong/1/1968": [
+      "H3N2 A/Port Chalmers/1/1973"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Wisconsin/67/2005"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Switzerland/9715293/2013": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Sichuan/60/1989": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Texas/1/1977": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Port Chalmers/1/1973": [
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Wisconsin/67/2005": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Victoria/361/2011"
+    ]
+  },
+  "H3N2 A/Wisconsin/67/2005": {
+    "H3N2 A/Perth/16/2009": [
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Panama/2007/1999": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Shandong/9/1993": [
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Sydney/5/1997": [
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Victoria/361/2011": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/New York/55/2004",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Mississippi/1/1985": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Uruguay/716/2007": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/New York/55/2004"
+    ],
+    "H3N2 A/Hong Kong/4801/2014": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Uruguay/716/2007"
+    ],
+    "H3N2 A/Hong Kong/1/1968": [
+      "H3N2 A/Port Chalmers/1/1973"
+    ],
+    "H3N2 A/New York/55/2004": [
+      "H3N2 A/Uruguay/716/2007",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997"
+    ],
+    "H3N2 A/Nanchang/933/1995": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Panama/2007/1999",
+      "H3N2 A/Sydney/5/1997",
+      "H3N2 A/Texas/50/2012",
+      "H3N2 A/Switzerland/9715293/2013",
+      "H3N2 A/Sichuan/60/1989"
+    ],
+    "H3N2 A/Switzerland/9715293/2013": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Texas/1/1977"
+    ],
+    "H3N2 A/Sichuan/60/1989": [
+      "H3N2 A/Shandong/9/1993",
+      "H3N2 A/Nanchang/933/1995"
+    ],
+    "H3N2 A/Texas/1/1977": [
+      "H3N2 A/Port Chalmers/1/1973",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Port Chalmers/1/1973": [
+      "H3N2 A/Hong Kong/1/1968",
+      "H3N2 A/Texas/1/1977",
+      "H3N2 A/Mississippi/1/1985"
+    ],
+    "H3N2 A/Texas/50/2012": [
+      "H3N2 A/Perth/16/2009",
+      "H3N2 A/Victoria/361/2011",
+      "H3N2 A/Hong Kong/4801/2014",
+      "H3N2 A/Nanchang/933/1995",
+      "H3N2 A/Uruguay/716/2007"
+    ]
+  }
+}
