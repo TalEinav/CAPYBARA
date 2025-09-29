@@ -17,8 +17,7 @@ from .utils  import (
     write_groups_csv, write_importance_csv, dump_json
 )
 from .config import Config
-
-
+os.environ["CUDA_VISIBLE_DEVICES"] = "" 
 
 class LaplaceRFMAnalyzer:
     """
@@ -43,13 +42,13 @@ class LaplaceRFMAnalyzer:
             bandwidth=Config.BANDWIDTH,
             reg=Config.REG,
             device="cpu",
+            mem_gb=16
         )
         model.fit(
             (torch.tensor(Xtr, dtype=torch.float32), torch.tensor(ytr, dtype=torch.float32)),
             (torch.tensor(Xvl, dtype=torch.float32), torch.tensor(yvl, dtype=torch.float32)),
             iters=5,
             loader=False,
-            #iters=5,
             classif=False,
             return_mse=False,
         )

@@ -5,7 +5,8 @@ from sklearn.metrics import mean_squared_error
 from .config import Config
 from typing import Optional
 import pickle
-
+from pathlib import Path
+import json, gzip
 # ------------------------------------------------------------------ #
 #  A)  Seeds & simple helpers
 # ------------------------------------------------------------------ #
@@ -94,3 +95,42 @@ def load_json(path: str) -> dict:
 def load_pickle(path):
     with open(path, "rb") as f:
         return pickle.load(f)
+
+
+"""
+Light-weight helpers to ship a *tiny* bundle of public training datasets
+so end-users can run `easy_predict()` out-of-the-box.
+
+If you don’t want to publish any data, the stub just returns an empty dict.
+"""
+# ------------------------------------------------------------------
+# Internal helper to read an HDF5 or gz-JSON – adjust to your format
+# ------------------------------------------------------------------
+def _load_reference(path: Path) -> dict[str, "pd.DataFrame"]:
+    if not path.exists():
+        return {}
+
+    if path.suffix == ".h5":
+        # one key per dataset — HDFStore keeps the original column dtypes
+        store = pd.HDFStore(path, mode="r")
+        out   = {k.strip("/"): store[k] for k in store.keys()}
+        store.close()
+        return out
+
+    if path.suffix == ".gz":      # fallback: gz-compressed JSON blobs
+        with gzip.open(path, "rt", encoding="utf-8") as fh:
+            raw = json.load(fh)
+        return {k: pd.DataFrame(v) for k, v in raw.items()}
+
+    raise ValueError(f"Unknown reference format: {path.suffix}")
+
+# ------------------------------------------------------------------
+# Public API --------------------------------------------------------
+# ------------------------------------------------------------------
+def default_dataset_dict() -> dict[str, "pd.DataFrame"]:
+    """
+    Return a *small* dictionary of canonical training studies that ship
+    with CAPYBARA.  If the bundle is absent, return an empty dict.
+    """
+    bundle = Path(__file__).with_suffix(".h5")      # e.g.  Capybara/data.h5
+    return _load_reference(bundle)
