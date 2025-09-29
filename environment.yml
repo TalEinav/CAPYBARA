@@ -28,7 +28,6 @@ dependencies:
   # PyTorch CPU build
   - pytorch=2.3.*
   - torchvision=0.18.*
-  - torchaudio
   - cpuonly
 
   # Utils
