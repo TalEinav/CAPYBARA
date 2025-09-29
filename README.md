@@ -45,22 +45,9 @@ git clone https://github.com/TalEinav/CAPYBARA.git
 cd CAPYBARA
 
 # recommended env
-conda create -n capybara python=3.10
-conda activate capybara
+conda env create -f environment.yml
+conda activate capybara_env
 
-# core deps + Laplace-RFM from GitHub
-pip install -r requirements.txt
-````
-
-`requirements.txt` pins:
-
-```
-torch==1.13.0
-torchvision==0.14.0
-hickle==5.0.2
-tqdm>=4.64
-git+https://github.com/aradha/recursive_feature_machines.git@pip_install
-… # plus NumPy, pandas, scikit-learn, matplotlib, seaborn, statsmodels
 ```
 
 GPU is optional; CPU is fine for the H3N2 case-study.
