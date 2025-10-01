@@ -26,6 +26,12 @@ from importlib import metadata as _metadata
 import warnings
 import logging
 from pathlib import Path
+try:
+    from .local_rfm import rfm as _vendored_rfm
+    import sys
+    sys.modules['rfm'] = _vendored_rfm
+except Exception:
+    pass
 
 # ---------------------------------------------------------------------
 # ▸ Version

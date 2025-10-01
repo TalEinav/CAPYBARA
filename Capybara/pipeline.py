@@ -1,5 +1,26 @@
+# from __future__ import annotations
+# import torch
+# import numpy as np
+# from sklearn.model_selection import train_test_split
+# from collections import defaultdict
+# from sklearn.metrics import mean_squared_error, r2_score
+# from sklearn.linear_model import Ridge
+# from torch.utils.data import DataLoader, TensorDataset
+# from rfm import LaplaceRFM 
+# import os
+# import pickle
+# from typing import Optional
+# from typing import Dict, List
+# #  Our helpers
+# from .utils  import (
+#     set_global_seed, split_xy, rmse_log2, extract_groups,
+#     write_groups_csv, write_importance_csv, dump_json
+# )
+# from .config import Config
+#pipeline.py
 from __future__ import annotations
 import torch
+
 import numpy as np
 from sklearn.model_selection import train_test_split
 from collections import defaultdict
@@ -9,16 +30,24 @@ from torch.utils.data import DataLoader, TensorDataset
 from rfm import LaplaceRFM 
 import os
 import pickle
+os.environ["CUDA_VISIBLE_DEVICES"] = ""    # hide GPUs
+torch.backends.cudnn.enabled = False
+from rfm import LaplaceRFM
 from typing import Optional
-from typing import Dict, List
+
 #  Our helpers
 from .utils  import (
     set_global_seed, split_xy, rmse_log2, extract_groups,
     write_groups_csv, write_importance_csv, dump_json
 )
 from .config import Config
-os.environ["CUDA_VISIBLE_DEVICES"] = "" 
 
+# CAPYBARA/models/laplace_analyzer.py
+# from __future__ import annotations
+import torch, numpy as np
+from typing import Dict, List
+from rfm import LaplaceRFM
+import warnings
 class LaplaceRFMAnalyzer:
     """
     • Fits LaplaceRFM to each target virus in every dataset.
@@ -37,6 +66,10 @@ class LaplaceRFMAnalyzer:
     # ------------------------------------------------------------------
     def _fit_one_target(self, X: np.ndarray, y: np.ndarray):
         """Return LaplaceRFM model trained on (X,y)."""
+        X = np.asarray(X, np.float32); y = np.asarray(y, np.float32).reshape(-1,1)
+        if X.ndim == 1: X = X.reshape(-1,1)
+        if X.shape[1] == 0:
+            raise ValueError("No predictor features (d=0).")
         Xtr, Xvl, ytr, yvl = split_xy(X, y)
         model = LaplaceRFM(
             bandwidth=Config.BANDWIDTH,
@@ -70,7 +103,10 @@ class LaplaceRFMAnalyzer:
             raw_groups_per_target = []          # [[['v1'],['v2',…]], …]
             combined_groups = {}                # {target: [v1,v2,…]}
             importance_per_target = {}          # {target: {virus:score}}
-
+            if df.shape[1] < 2:
+                warnings.warn(f"Skipping dataset '{dset}' – only {df.shape[1]} column(s). Need ≥2.")
+                continue
+            
             for tgt in df.columns:
                 other = [c for c in df.columns if c != tgt]
                 X = df[other].values.astype(np.float32)
@@ -82,6 +118,17 @@ class LaplaceRFMAnalyzer:
                 raw_groups_per_target.append(groups)           # keep full structure
                 combined_groups[tgt] = list({v for g in groups for v in g})
                 importance_per_target[tgt] = imp
+            # for tgt in df.columns:
+            #     other = [c for c in df.columns if c != tgt]
+            #     X = df[other].values.astype(np.float32)
+            #     y = df[tgt].values.astype(np.float32).reshape(-1, 1)
+
+            #     model = self._fit_one_target(X, y)
+            #     groups, _, imp = extract_groups(model.M, other)
+
+            #     raw_groups_per_target.append(groups)           # keep full structure
+            #     combined_groups[tgt] = list({v for g in groups for v in g})
+            #     importance_per_target[tgt] = imp
 
             # cache per-dataset results
             self.virus_groups_raw[dset]       = raw_groups_per_target

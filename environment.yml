@@ -36,4 +36,4 @@ dependencies:
 
   - pip:
       - torchmetrics>=1.4
-      - git+https://github.com/aradha/recursive_feature_machines.git@pip_install
+      # - git+https://github.com/aradha/recursive_feature_machines.git@pip_install
