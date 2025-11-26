@@ -9,20 +9,6 @@
 ---
 
 ## Table of Contents
-1. [Why CAPYBARA?](#1-why-capybara)  
-2. [Installation](#2-installation)  
-3. [Input file format](#3-input-file-format)  
-4. [Quick-start (five lines)](#4-quick-start-five-lines)  
-5. [Notebook walk-through](#5-full-notebook-walk-through)  
-   * 5.1 [Pre-processing](#51-pre-processing)  
-   * 5.2 [Per-dataset feature selection (RFM)](#52-feature-selection--laplacerfm)  
-   * 5.3 [Ridge models & transferability](#53-ridge-models--transferability)  
-   * 5.4 [Bayesian combination & diagnostic plots](#54-bayesian-combination--plots)  
-   * 5.5 [Adding your own dataset](#55-adding-your-own-dataset)  
-   * 5.6 [Re-creating all figures 2-5](#56-re-creating-all-paper-figures)  
-6. [Project layout](#6-project-layout)  
-7. [Advanced configuration](#7-advanced-configuration)  
-=======
 - [CAPYBARA 🐾](#capybara-)
   - [Table of Contents](#table-of-contents)
   - [1  Why CAPYBARA?](#1--why-capybara)
@@ -43,7 +29,7 @@
 ---
 
 ## 1  Why CAPYBARA?
-<<<<<<< HEADTraditional single-study models **over-fit** and provide no principled way to
+Traditional single-study models **over-fit** and provide no principled way to
 transfer knowledge to a new cohort.  
 CAPYBARA solves this by:
 
