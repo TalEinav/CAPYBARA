@@ -1,12 +1,10 @@
 # CAPYBARA 🐾  
 **C**ross-study **A**daptive **P**redictions **Y**ielding **B**ayesian **A**ggregation with **R**ecursive **A**nalysis  
 
-<<<<<<< HEAD
 > *Imputing missing measurements **and** their uncertainty by learning across
 > multiple antibody studies.*
 =======
 > *Imputing values and their uncertainty using multiple training datasets*
->>>>>>> 8d086c97608022ad57843aed3f0c7f46c0b4852b
 
 ---
 
@@ -104,7 +102,6 @@ pip install -r requirements.txt
 pip install -e .
 ```
 
->>>>>>> 8d086c97608022ad57843aed3f0c7f46c0b4852b
 GPU is optional; CPU is fine for the H3N2 case-study.
 
 ### Local Recursive Feature Machine (RFM)
