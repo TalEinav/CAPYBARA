@@ -1,6 +1,5 @@
 """
 CAPYBARA – Cross-study Adaptive Predictions Yielding Bayesian Recursive Analysis
--------------------------------------------------------------------------------
 
 Top-level API:
 
@@ -33,15 +32,14 @@ try:
 except Exception:
     pass
 
-# ---------------------------------------------------------------------
-# ▸ Version
-# ---------------------------------------------------------------------
+
+# Version
 #__version__: str = _metadata.version("Capybara") if _metadata else "0+unknown"
 
-# ---------------------------------------------------------------------
-# ▸ Public symbols (re-export the *most* useful classes)
+
+# Public symbols (re-export the *most* useful classes)
 #   – keep this list short so import time stays low.
-# ---------------------------------------------------------------------
+
 from .preprocess import DataPreprocessor, MultiDS        # noqa: E402
 from .pipeline   import (                                # noqa: E402
     LaplaceRFMAnalyzer,
@@ -64,10 +62,9 @@ __all__ = [
     "__version__", 
 ]
 
-# ---------------------------------------------------------------------
 # ▸ Optional: silence tqdm bars globally unless env-var keeps them.
 #   (Matches your notebook patching but works for CLI / scripts too.)
-# ---------------------------------------------------------------------
+
 import os
 if os.getenv("CAPYBARA_PROGRESS", "off").lower() in {"off", "0", "false"}:
     try:
@@ -78,9 +75,8 @@ if os.getenv("CAPYBARA_PROGRESS", "off").lower() in {"off", "0", "false"}:
     except ModuleNotFoundError:
         pass  # tqdm not installed; ignore
 
-# ---------------------------------------------------------------------
-# ▸ Logging defaults – user can override with logging.basicConfig()
-# ---------------------------------------------------------------------
+# Logging defaults – user can override with logging.basicConfig()
+
 _log = logging.getLogger("capybara")
 if not _log.handlers:
     handler = logging.StreamHandler()
@@ -89,9 +85,7 @@ if not _log.handlers:
     _log.addHandler(handler)
     _log.setLevel(logging.INFO)
 
-# ---------------------------------------------------------------------
-# ▸ One-shot convenience:  easy_predict
-# ---------------------------------------------------------------------
+# One-shot convenience:  easy_predict
 from .pipeline import (            # noqa: E402  keep import *inside* to avoid heavy deps at startup
     OverlapFinder, PredictionCombiner, PredictionPlotter, RFMGroupAnalysis,
     LaplaceRFMAnalyzer

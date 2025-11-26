@@ -1,12 +1,17 @@
 # CAPYBARA 🐾  
 **C**ross-study **A**daptive **P**redictions **Y**ielding **B**ayesian **A**ggregation with **R**ecursive **A**nalysis  
 
+<<<<<<< HEAD
 > *Imputing missing measurements **and** their uncertainty by learning across
 > multiple antibody studies.*
+=======
+> *Imputing values and their uncertainty using multiple training datasets*
+>>>>>>> 8d086c97608022ad57843aed3f0c7f46c0b4852b
 
 ---
 
 ## Table of Contents
+<<<<<<< HEAD
 1. [Why CAPYBARA?](#1-why-capybara)  
 2. [Installation](#2-installation)  
 3. [Input file format](#3-input-file-format)  
@@ -20,10 +25,29 @@
    * 5.6 [Re-creating all figures 2-5](#56-re-creating-all-paper-figures)  
 6. [Project layout](#6-project-layout)  
 7. [Advanced configuration](#7-advanced-configuration)  
+=======
+- [CAPYBARA 🐾](#capybara-)
+  - [Table of Contents](#table-of-contents)
+  - [1  Why CAPYBARA?](#1--why-capybara)
+  - [2 Setup \& Installation](#2-setup--installation)
+  - [3 Input file format](#3-input-file-format)
+  - [4  Quick-start (five lines)](#4--quick-start-five-lines)
+  - [5  Full notebook walk-through](#5--full-notebook-walk-through)
+    - [5.1  Pre-processing](#51--pre-processing)
+    - [5.2  Feature learning/selection (LaplaceRFM)](#52--feature-learningselection-laplacerfm)
+    - [5.3  Feature learning/selection when target virus is completely left out](#53--feature-learningselection-when-target-virus-is-completely-left-out)
+    - [5.4  Get predictions and transferability across datasets for each virus, each dataset pair](#54--get-predictions-and-transferability-across-datasets-for-each-virus-each-dataset-pair)
+    - [5.5  Bayesian combination \& plots](#55--bayesian-combination--plots)
+    - [5.5  Adding your own dataset](#55--adding-your-own-dataset)
+    - [5.6  Re-creating all paper figures](#56--re-creating-all-paper-figures)
+  - [6  Project layout](#6--project-layout)
+  - [7  Advanced configuration](#7--advanced-configuration)
+>>>>>>> 8d086c97608022ad57843aed3f0c7f46c0b4852b
 
 ---
 
 ## 1  Why CAPYBARA?
+<<<<<<< HEAD
 Traditional single-study models **over-fit** and provide no principled way to
 transfer knowledge to a new cohort.  
 CAPYBARA solves this by:
@@ -38,36 +62,65 @@ CAPYBARA solves this by:
 
 Although the code was built around influenza HAI titres, **any numeric
 endpoint** (neutralisation IC<sub>50</sub>, ELISA OD, …) works—just change
+=======
+Traditional models were trained on one dataset and tested on another, yet we are now approaching the regime where we have **many datasets** for training, some of which are far more informative than others. CAPYBARA provides an efficient, principled way to identify the most informative studies and combine their predictions using:
+
+* Recursive Feature Machines to identify the most predictive feature set
+* Ridge regression with error quantification (by predicting left-out data to quantify dataset transferability **σ<sub>Predict</sub>**)  
+* Bayesian inverse-variance weighting to combine predictions from multiple studies  
+* Helper functions for the specific context of influenza antibody responses we examine (HAI, fold-error, …)
+
+Although the code was built around influenza HAI titres, **any numeric
+endpoint** (neutralisation IC<sub>50</sub>, ELISA OD, …) will work seamlessly — just change
+>>>>>>> 8d086c97608022ad57843aed3f0c7f46c0b4852b
 `response_col` & `response_transform`.
 
 ---
 ## 2 Setup & Installation
+First, clone the repository:
 
 ```bash
 git clone https://github.com/TalEinav/CAPYBARA.git
 cd CAPYBARA
+```
 
-# recommended env
-conda create -n capybara python=3.10
-conda activate capybara
+Option 1: Conda (recommended)
+```bash
+# Create and activate the conda environment
+conda env create -f environment.yml
+conda activate capybara_env
 
-# core deps + Laplace-RFM from GitHub
+# Install CAPYBARA (and the local RFM) in editable mode
+pip install -e .
+```
+Option 2: Virtualenv + pip
+
+```bash
+# Create and activate a virtualenv (example for Unix-like systems)
+python -m venv capybara_env
+source capybara_env/bin/activate
+
+# Install dependencies
+pip install --upgrade pip
 pip install -r requirements.txt
-````
 
-`requirements.txt` pins:
-
-```
-torch==1.13.0
-torchvision==0.14.0
-hickle==5.0.2
-tqdm>=4.64
-git+https://github.com/aradha/recursive_feature_machines.git@pip_install
-… # plus NumPy, pandas, scikit-learn, matplotlib, seaborn, statsmodels
+# Install Capybara (and the local RFM copy) in editable mode
+pip install -e .
 ```
 
+>>>>>>> 8d086c97608022ad57843aed3f0c7f46c0b4852b
 GPU is optional; CPU is fine for the H3N2 case-study.
 
+### Local Recursive Feature Machine (RFM)
+
+CAPYBARA includes a local copy of the Recursive Feature Machine in:
+
+```text
+CAPYBARA/local_rfm/rfm/
+    ├── __init__.py
+    ├── kernel.py
+    └── recursive_feature_machine.py
+```
 ---
 
 ## 3 Input file format
@@ -125,11 +178,19 @@ filtered_df, dataset_dict, *_ = pre.run()
 
 The pre-processor:
 
+<<<<<<< HEAD
 1. merges multiple CSVs
 2. drops duplicate subjects across studies
 3. fixes *Egg-grown* vs *Cell-grown* naming clashes
 4. pivots to `dataset_dict = {dataset → wide DataFrame}`
 5. imputes missing cells with row/column means
+=======
+1. Merges multiple CSVs
+2. Drops duplicate subjects across studies
+3. Fixes *Egg-grown* vs *Cell-grown* naming clashes
+4. Pivots to `dataset_dict = {dataset → wide DataFrame}`
+5. Imputes missing cells with row/column means
+>>>>>>> 8d086c97608022ad57843aed3f0c7f46c0b4852b
 
 ### 5.2  Feature learning/selection (LaplaceRFM)
 
@@ -200,7 +261,11 @@ df_all[df_all["Dataset"] == my_ds].to_csv("tmp_only.csv", index=False)
 _, new_dict, *_ = DataPreprocessor(paths=["tmp_only.csv"]).run()
 dataset_dict[my_ds] = new_dict[my_ds]
 
+<<<<<<< HEAD
 # run LOO RFM only for (train, my_dastaset) pairs that share ≥3 viruses
+=======
+# run leave-one-out RFM only for (train, my_dastaset) pairs that share ≥3 viruses
+>>>>>>> 8d086c97608022ad57843aed3f0c7f46c0b4852b
 RFMGroupAnalysis("results/leave_one_out_RFM").run(dataset_dict)
 
 TransferabilityAnalysis().run_transferability_analysis(

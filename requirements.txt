@@ -3,14 +3,16 @@ numpy>=1.23
 pandas>=1.5
 scikit-learn>=1.2
 matplotlib>=3.6
+scipy>=1.9
+statsmodels>=0.13
+seaborn>=0.12
+biopython>=1.8
 
-# PyTorch dependencies (specific version as per RFM requirements)
-torch==1.13.0
-torchvision==0.14.0
+# PyTorch CPU build
+torch>=2.3,<2.4
+torchvision>=0.18,<0.19
 
-# Recursive Feature Machines (RFM) directly from GitHub
-git+https://github.com/aradha/recursive_feature_machines.git@pip_install
-
-# RFM-specific additional requirements
+# RFM-related utilities (local RFM is vendored in this repo)
 hickle==5.0.2
 tqdm>=4.64
+torchmetrics>=1.4
