@@ -1,11 +1,7 @@
 # CAPYBARA 🐾  
 **C**ross-study **A**daptive **P**redictions **Y**ielding **B**ayesian **A**ggregation with **R**ecursive **A**nalysis  
 
-> *Imputing missing measurements **and** their uncertainty by learning across
-> multiple antibody studies.*
-=======
-> *Imputing values and their uncertainty using multiple training datasets*
-
+> *Imputing missing measurements **and** their uncertainty by learning across multiple antibody studies.*
 ---
 
 ## Table of Contents
