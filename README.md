@@ -11,7 +11,6 @@
 ---
 
 ## Table of Contents
-<<<<<<< HEAD
 1. [Why CAPYBARA?](#1-why-capybara)  
 2. [Installation](#2-installation)  
 3. [Input file format](#3-input-file-format)  
@@ -42,13 +41,11 @@
     - [5.6  Re-creating all paper figures](#56--re-creating-all-paper-figures)
   - [6  Project layout](#6--project-layout)
   - [7  Advanced configuration](#7--advanced-configuration)
->>>>>>> 8d086c97608022ad57843aed3f0c7f46c0b4852b
 
 ---
 
 ## 1  Why CAPYBARA?
-<<<<<<< HEAD
-Traditional single-study models **over-fit** and provide no principled way to
+<<<<<<< HEADTraditional single-study models **over-fit** and provide no principled way to
 transfer knowledge to a new cohort.  
 CAPYBARA solves this by:
 
@@ -72,7 +69,6 @@ Traditional models were trained on one dataset and tested on another, yet we are
 
 Although the code was built around influenza HAI titres, **any numeric
 endpoint** (neutralisation IC<sub>50</sub>, ELISA OD, …) will work seamlessly — just change
->>>>>>> 8d086c97608022ad57843aed3f0c7f46c0b4852b
 `response_col` & `response_transform`.
 
 ---
@@ -178,7 +174,7 @@ filtered_df, dataset_dict, *_ = pre.run()
 
 The pre-processor:
 
-<<<<<<< HEAD
+
 1. merges multiple CSVs
 2. drops duplicate subjects across studies
 3. fixes *Egg-grown* vs *Cell-grown* naming clashes
@@ -190,7 +186,6 @@ The pre-processor:
 3. Fixes *Egg-grown* vs *Cell-grown* naming clashes
 4. Pivots to `dataset_dict = {dataset → wide DataFrame}`
 5. Imputes missing cells with row/column means
->>>>>>> 8d086c97608022ad57843aed3f0c7f46c0b4852b
 
 ### 5.2  Feature learning/selection (LaplaceRFM)
 
@@ -208,7 +203,7 @@ Each dataset pair ran on overlapping viruses
 ```python
 from capybara.pipeline import RFMGroupAnalysis, TransferabilityAnalysis
 
-# ➋ leave-one-overlap-out Laplace-RFM per (train,test) pair
+# leave-one-overlap-out Laplace-RFM per (train,test) pair
 RFMGroupAnalysis(results_dir="results/leave_one_out_RFM").run(dataset_dict)
 
 ```
@@ -217,7 +212,7 @@ RFMGroupAnalysis(results_dir="results/leave_one_out_RFM").run(dataset_dict)
 ```python
 from capybara.pipeline import TransferabilityAnalysis
 
-# ➌ σPredict via ODR + upper-bound line
+# σPredict via ODR + upper-bound line
 TransferabilityAnalysis().run_transferability_analysis(
     dataset_dict,
     combined_virus_groups_dict_path="results/virus_groups_all_datasets.json",
