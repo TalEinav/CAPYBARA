@@ -1229,7 +1229,7 @@ class PredictionPlotter:
 
         plt.figure(figsize=(12, 12))
         plt.scatter(all_actual_jittered, all_pred_jittered, c=self.dot_color, edgecolors=getattr(self, "dot_edgecolor", 'black'),
-         s=self.dot_size, alpha=self.dot_alpha, linewidth=1.5)
+         s=self.dot_size, alpha=self.dot_alpha, linewidth=1.5, zorder=3)
 
         plt.xscale('log', base=2)
         plt.yscale('log', base=2)
@@ -1242,7 +1242,7 @@ class PredictionPlotter:
         lower_bound = x_line / sigma_predicted_raw
         upper_bound = x_line * sigma_predicted_raw
         plt.fill_between(x_line, lower_bound, upper_bound, color='lightgray',
-                         alpha=self.fill_alpha, label=f'± Mean σPredict = {sigma_predicted_raw:.2f}×')
+                         alpha=self.fill_alpha, label=f'± Mean σPredict = {sigma_predicted_raw:.2f}x', zorder=1)
 
         ticks = [5 * (2 ** i) for i in range(0, 11, 2)]
         plt.xticks(ticks, [str(t) for t in ticks], fontsize=self.tick_font_size, fontweight=self.tick_font_weight)

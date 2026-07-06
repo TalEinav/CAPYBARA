@@ -25,6 +25,7 @@ from importlib import metadata as _metadata
 import warnings
 import logging
 from pathlib import Path
+
 try:
     from .local_rfm import rfm as _vendored_rfm
     import sys
@@ -32,6 +33,21 @@ try:
 except Exception:
     pass
 
+# try:
+#     from .local_rfm import rfm as _vendored_rfm
+#     import sys
+
+#     if "rfm" in sys.modules and sys.modules["rfm"] is not _vendored_rfm:
+#         raise ImportError(
+#             "A different 'rfm' is already imported. "
+#             "Uninstall it (pip uninstall rfm) or import Capybara first."
+#         )
+
+#     sys.modules["rfm"] = _vendored_rfm
+
+# except Exception as e:
+#     # only warn in dev; don't hard fail for users who don't need rfm
+#     warnings.warn(f"Could not load vendored rfm: {e}")
 
 # Version
 #__version__: str = _metadata.version("Capybara") if _metadata else "0+unknown"
